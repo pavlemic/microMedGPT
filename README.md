@@ -1,6 +1,8 @@
-# MicroMedGPT
+# microMedGPT
 
-A small-scale GPT model designed for medical report generation from clinical notes.
+microMedGPT is a small-scale, proof-of-concept GPT model designed to generate medical reports from clinical notes. This project was inspired by the code from Andrej Karpathy’s Youtube video “Let's build GPT: from scratch, in code, spelled out” (https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy), which has been heavily modified to create microMedGPT.
+
+While the current model outputs are limited and often nonsensical due to its small size and constrained computational resources, it serves as a proof of concept demonstrating that, with larger datasets and more computational power, a practical and functional medical report generation model could be realized. 
 
 ## Project Structure
 
