@@ -1,0 +1,1401 @@
+<note> Pt c/o chest pain, hx HTN, on atenolol. ECG – ST elev. Dx: STEMI. <SEP>
+<report> The patient presented with chest pain and has a history of hypertension. They are currently taking atenolol. ECG showed ST elevation, consistent with a heart attack (STEMI).
+---
+
+<note> F 32 yo, fever, cough, +PCR SARS-CoV-2. <SEP>
+<report> A 32-year-old female presented with fever and cough. PCR testing was positive for SARS-CoV-2, consistent with COVID-19 infection.
+---
+
+<note> M 67 yo, smoker, wt loss, hemoptysis. CT chest: RUL mass. <SEP>
+<report> A 67-year-old male with a history of smoking reported weight loss and coughing up blood. Chest CT revealed a mass in the right upper lung, concerning for lung cancer.
+---
+
+<note> F 45 yo, polyuria, polydipsia. FBG 210 mg/dL, HbA1c 8.5%. <SEP>
+<report> A 45-year-old female presented with increased urination and thirst. Laboratory testing showed a fasting blood glucose of 210 mg/dL and HbA1c of 8.5%, consistent with type 2 diabetes mellitus.
+---
+
+<note> Pt 23 yo, ankle pain, swelling post sports injury. X-ray: fracture distal fibula. <SEP>
+<report> A 23-year-old patient presented with ankle pain and swelling following a sports injury. X-ray imaging revealed a fracture of the distal fibula.
+---
+
+<note> M 52 yo, chest tightness on exertion, relieved by rest. ETT positive. <SEP>
+<report> A 52-year-old male experienced chest tightness during physical activity, which improved with rest. An exercise treadmill test was positive, consistent with angina pectoris.
+---
+
+<note> F 70 yo, confusion, slurred speech, right-sided weakness. CT head: acute infarct. <SEP>
+<report> A 70-year-old female presented with confusion, slurred speech, and weakness on the right side. A CT scan of the head revealed an acute stroke.
+---
+
+<note> Pt 6 yo, sore throat, fever, enlarged tonsils with exudates. Rapid strep test +. <SEP>
+<report> A 6-year-old patient presented with sore throat, fever, and enlarged tonsils with exudates. A rapid strep test was positive, consistent with streptococcal pharyngitis.
+---
+
+<note> M 40 yo, RUQ pain, nausea, vomiting. US: gallstones, GB wall thickened. <SEP>
+<report> A 40-year-old male presented with right upper quadrant pain, nausea, and vomiting. Ultrasound showed gallstones and thickening of the gallbladder wall, consistent with acute cholecystitis.
+---
+
+<note> F 29 yo, SOB, wheezing, hx asthma. Improved with albuterol. <SEP>
+<report> A 29-year-old female presented with shortness of breath and wheezing. She has a history of asthma, and her symptoms improved with albuterol treatment.
+---
+
+<note> M 55 yo, abd pain, vomiting, distension. XR: dilated loops, air-fluid levels. <SEP>
+<report> A 55-year-old male presented with abdominal pain, vomiting, and distension. Abdominal X-ray showed dilated bowel loops with air-fluid levels, consistent with small bowel obstruction.
+---
+
+<note> F 36 yo, palpitations, anxiety, wt loss. TSH suppressed, T4 elevated. <SEP>
+<report> A 36-year-old female complained of palpitations, anxiety, and weight loss. Thyroid function tests showed suppressed TSH and elevated T4, consistent with hyperthyroidism.
+---
+
+<note> Pt 12 yo, rash cheeks, fever, “slapped face” appearance. Parvovirus IgM +. <SEP>
+<report> A 12-year-old patient presented with fever and a characteristic rash on the cheeks resembling a "slapped face." Serology was positive for Parvovirus IgM, confirming fifth disease (erythema infectiosum).
+---
+
+<note> M 82 yo, confusion, fever, productive cough. CXR: RLL consolidation. <SEP>
+<report> An 82-year-old male presented with confusion, fever, and productive cough. Chest X-ray revealed consolidation in the right lower lobe, consistent with pneumonia.
+---
+
+<note> F 25 yo, amenorrhea 2 mo, nausea, breast tenderness. Urine hCG +. <SEP>
+<report> A 25-year-old female with two months of missed periods presented with nausea and breast tenderness. Urine pregnancy test was positive, confirming pregnancy.
+---
+
+<note> Pt 5 yo, barky cough, inspiratory stridor. CXR: steeple sign. <SEP>
+<report> A 5-year-old patient presented with a barking cough and inspiratory stridor. Chest X-ray showed the classic "steeple sign," consistent with croup.
+---
+
+<note> M 60 yo, hematemesis, melena. Endoscopy: bleeding gastric ulcer. <SEP>
+<report> A 60-year-old male presented with hematemesis and melena. Endoscopy revealed a bleeding gastric ulcer.
+---
+
+<note> F 47 yo, chronic fatigue, diffuse MSK pain, poor sleep. Labs normal. <SEP>
+<report> A 47-year-old female reported chronic fatigue, widespread musculoskeletal pain, and poor sleep. Laboratory tests were normal. The findings are consistent with fibromyalgia.
+---
+
+<note> Pt 9 yo, sore throat, sandpaper rash, strawberry tongue. Rapid strep test +. <SEP>
+<report> A 9-year-old patient presented with sore throat, sandpaper-like rash, and strawberry tongue. A rapid strep test was positive, consistent with scarlet fever.
+---
+
+<note> M 72 yo, tremor at rest, rigidity, bradykinesia. Dx: Parkinson’s disease. <SEP>
+<report> A 72-year-old male presented with resting tremor, muscle rigidity, and slowness of movement. The clinical findings were consistent with Parkinson’s disease.
+---
+
+<note> F 18 yo, dysuria, frequency, suprapubic pain. UA: nitrite +, WBC +. <SEP>
+<report> An 18-year-old female presented with painful urination, increased frequency, and suprapubic pain. Urinalysis showed positive nitrites and white blood cells, consistent with urinary tract infection.
+---
+
+<note> Pt 3 yo, high fever, drooling, tripod position. Lateral neck XR: thumb sign. <SEP>
+<report> A 3-year-old patient presented with high fever, drooling, and sitting in a tripod position. Lateral neck X-ray revealed the "thumb sign," consistent with epiglottitis.
+---
+
+<note> M 41 yo, depressed mood, anhedonia, insomnia > 2 wks. No SI. <SEP>
+<report> A 41-year-old male reported depressed mood, lack of interest in activities, and difficulty sleeping for more than two weeks. He denied suicidal thoughts. Findings are consistent with major depressive disorder.
+---
+
+<note> F 64 yo, paleness, fatigue, spoon nails. Hb 8.5 g/dL, MCV low. <SEP>
+<report> A 64-year-old female presented with fatigue and spoon-shaped nails. Laboratory tests showed hemoglobin of 8.5 g/dL with low mean corpuscular volume, consistent with iron deficiency anemia.
+---
+
+<note> Pt newborn, jaundice, lethargy. Total bilirubin 20 mg/dL. <SEP>
+<report> A newborn presented with jaundice and lethargy. Laboratory testing revealed a total bilirubin of 20 mg/dL, consistent with neonatal hyperbilirubinemia.
+---
+
+<note> M 22 yo, sudden severe testicular pain, swelling. US: absent flow. <SEP>
+<report> A 22-year-old male presented with sudden onset of severe testicular pain and swelling. Ultrasound demonstrated absent blood flow, consistent with testicular torsion.
+---
+
+<note> F 31 yo, lower abd pain, vaginal discharge, fever. Pelvic exam: cervical motion tenderness. <SEP>
+<report> A 31-year-old female presented with lower abdominal pain, fever, and abnormal vaginal discharge. Pelvic examination revealed cervical motion tenderness, consistent with pelvic inflammatory disease.
+---
+
+<note> Pt 15 yo, knee pain after jump, tibial tuberosity tender. XR normal. <SEP>
+Report: A 15-year-old patient reported knee pain after a jumping activity. Examination showed tenderness at the tibial tuberosity. X-ray was normal. Findings are consistent with Osgood-Schlatter disease.
+---
+
+<note> M 68 yo, difficulty urinating, nocturia. PSA elevated. <SEP>
+<report> A 68-year-old male presented with difficulty urinating and frequent nighttime urination. Laboratory testing showed elevated prostate-specific antigen, consistent with benign prostatic hyperplasia or prostate cancer.
+---
+
+<note> F 54 yo, butterfly rash, arthralgia, photosensitivity. ANA +. <SEP>
+<report> A 54-year-old female presented with a butterfly-shaped rash on her face, joint pain, and photosensitivity. Antinuclear antibody testing was positive, consistent with systemic lupus erythematosus.
+---
+
+<note> M 55 yo, abd pain, vomiting, distension. XR: dilated loops, air-fluid levels. Hx: prior abd surgery. <SEP>
+<report> A 55-year-old male with a history of prior abdominal surgery presented with acute onset abdominal pain, vomiting, and progressive abdominal distension.
+On examination, his abdomen was distended with hyperactive bowel sounds. He appeared uncomfortable and dehydrated.
+Abdominal X-ray revealed dilated bowel loops with multiple air-fluid levels, consistent with small bowel obstruction. Given his surgical history, adhesions are the most likely etiology.
+The patient was admitted for bowel rest, nasogastric decompression, and intravenous fluid resuscitation. Surgical consultation was obtained, and he will be closely monitored for signs of strangulation or ischemia.
+---
+
+<note> F 72 yo, chest pain radiating to jaw, diaphoresis. ECG: ST↑ II, III, aVF. Trop markedly ↑. <SEP>
+<report> A 72-year-old female presented with acute chest pain radiating to her jaw, associated with diaphoresis and nausea.
+On examination, she was diaphoretic and hypotensive. Electrocardiogram revealed ST elevation in leads II, III, and aVF. Troponin levels were markedly elevated.
+This is consistent with an acute inferior wall ST-elevation myocardial infarction. She was given aspirin and clopidogrel, started on heparin, and taken urgently for cardiac catheterization.
+The patient will require ongoing dual antiplatelet therapy, beta-blockade, and risk factor modification.
+---
+
+<note> M 64 yo, progressive SOB, orthopnea, ankle swelling. Echo: EF 30%, global hypokinesis. <SEP>
+<report> A 64-year-old male presented with progressive shortness of breath, orthopnea, and ankle swelling over the past month.
+Physical exam showed elevated jugular venous pressure, bilateral crackles on auscultation, and pitting edema in both legs.
+Echocardiogram demonstrated an ejection fraction of 30% with global hypokinesis, consistent with heart failure with reduced ejection fraction.
+The patient was started on loop diuretics, ACE inhibitors, and beta-blockers. He was counseled on dietary sodium restriction and close outpatient follow-up.
+---
+
+<report> F 29 yo, fever, flank pain, dysuria. UA: pyuria, nitrites+. CT: perinephric stranding. <SEP>
+Report: A 29-year-old female presented with fever, chills, right-sided flank pain, and dysuria.
+On physical examination, she had costovertebral angle tenderness on the right side. Laboratory tests showed elevated WBC count. Urinalysis revealed pyuria and positive nitrites.
+CT abdomen demonstrated perinephric fat stranding, consistent with acute pyelonephritis.
+She was admitted and started on intravenous antibiotics. Symptomatic management and hydration were also provided.
+---
+
+<note> M 32 yo, high fever, severe abdominal pain, hypotensive. FAST scan: free fluid in abdomen. <SEP>
+<report> A 32-year-old male presented to the emergency department with acute onset severe abdominal pain, high-grade fever, and hypotension following a motor vehicle collision. 
+On examination, he was tachycardic and pale, with signs of peritoneal irritation. FAST scan revealed free intraperitoneal fluid. 
+This presentation is consistent with traumatic intra-abdominal injury with possible hemorrhage. 
+He was resuscitated with intravenous fluids and blood products and taken emergently to the operating room for exploratory laparotomy.
+
+---
+<note> F 28 yo, recurrent urticaria, angioedema, hx of peanut allergy. <SEP>
+<report> A 28-year-old female presented with recurrent episodes of urticaria and facial swelling. 
+She reported a known history of peanut allergy. On examination, she had widespread hives and mild periorbital edema. 
+This is consistent with IgE-mediated hypersensitivity reactions. The patient was treated with intramuscular epinephrine, antihistamines, and corticosteroids and counseled on strict allergen avoidance and emergency action plans.
+
+---
+<note> M 45 yo, undergoing elective knee replacement, develops hypotension and tachycardia intraoperatively. <SEP>
+<report> A 45-year-old male undergoing elective total knee arthroplasty developed sudden hypotension and tachycardia during surgery. 
+Anesthetic records showed decreased end-tidal CO2 and difficulty ventilating. This is suggestive of intraoperative anaphylaxis or pulmonary embolism. 
+He was managed with intravenous fluids, vasopressors, epinephrine, and airway support. Postoperatively, he was monitored in ICU and an allergist consult was requested.
+
+---
+<note> F 67 yo, chest pain at rest, known CAD. ECG: ST depression V4-V6. Troponin ↑. <SEP>
+<report> A 67-year-old female with a history of coronary artery disease presented with chest pain at rest. 
+ECG revealed ST segment depression in leads V4-V6, and troponin was elevated. 
+This presentation is consistent with non-ST elevation myocardial infarction (NSTEMI). 
+The patient was started on dual antiplatelet therapy, heparin infusion, and beta-blockers. Cardiology consultation was obtained for risk stratification and potential coronary intervention.
+
+---
+<note> M 12 yo, depressed mood, social withdrawal, irritability, hx bullying. <SEP>
+<report> A 12-year-old male presented with low mood, social withdrawal, and irritability over the past two months. 
+He reported ongoing bullying at school and decreased academic performance. Mental status examination revealed sad affect and anhedonia. 
+This is consistent with major depressive disorder in a child. He was referred to child psychiatry for psychotherapy and possible pharmacologic management.
+
+---
+<note> F 35 yo, fatigue, recurrent infections. CBC: pancytopenia, bone marrow biopsy: hypocellular. <SEP>
+<report> A 35-year-old female presented with fatigue and recurrent infections over the past several months. 
+Laboratory investigations revealed pancytopenia. Bone marrow biopsy demonstrated hypocellular marrow without malignancy, consistent with aplastic anemia. 
+Supportive care with transfusions was initiated, and she was referred for hematopoietic stem cell transplantation evaluation.
+
+---
+<note> M 50 yo, polyuria, polydipsia. Labs: glucose 280 mg/dL, HbA1c 11%. <SEP>
+<report> A 50-year-old male presented with increased thirst, frequent urination, and unintentional weight loss. 
+Laboratory investigations revealed hyperglycemia with HbA1c of 11%. 
+This is consistent with newly diagnosed type 2 diabetes mellitus. The patient was started on metformin, counseled on diet and lifestyle modification, and scheduled for endocrinology follow-up.
+
+---
+<note> F 60 yo, fever, productive cough, chills. Blood cultures pending, sputum gram stain: G+ cocci. <SEP>
+<report> A 60-year-old female presented with acute onset fever, productive cough, and chills. 
+On examination, she was febrile and tachypneic with crackles in the right lower lung field. 
+This is consistent with community-acquired bacterial pneumonia. She was started empirically on intravenous antibiotics and monitored closely for sepsis. Cultures were sent to clinical microbiology for pathogen identification and sensitivity testing.
+
+---
+<note> M 40 yo, severe headache, confusion, LP: elevated WBC, protein ↑. MRI: meningeal enhancement. <SEP>
+<report> A 40-year-old male presented with severe headache, fever, and confusion. 
+Lumbar puncture showed elevated white blood cells and protein in CSF. MRI demonstrated meningeal enhancement. 
+These findings are consistent with acute bacterial meningitis. He was started on intravenous broad-spectrum antibiotics and admitted to the ICU for close neurological monitoring.
+
+---
+<note> F 24 yo, seizures, EMG: abnormal cortical discharges. MRI normal. <SEP>
+<report> A 24-year-old female presented with recurrent generalized tonic-clonic seizures. 
+Electroencephalography revealed abnormal cortical discharges. MRI of the brain was unremarkable. 
+This is consistent with idiopathic epilepsy. She was started on antiepileptic therapy and scheduled for follow-up in neurology clinic for seizure management.
+
+---
+<note> M 18 yo, facial asymmetry after trauma, CT: left zygomatic fracture. <SEP>
+<report> An 18-year-old male presented with facial swelling and asymmetry following a fall. 
+CT scan of the face revealed a left zygomaticomaxillary complex fracture. 
+The patient was referred to craniofacial surgery for open reduction and internal fixation. Pain management and follow-up imaging were arranged.
+
+---
+<note> F 52 yo, itchy rash, erythematous plaques on extensor surfaces. Biopsy: spongiosis. <SEP>
+<report> A 52-year-old female presented with a pruritic rash on the extensor surfaces of her arms and legs. 
+Skin biopsy showed spongiosis and inflammatory infiltrates, consistent with eczema. 
+She was treated with topical corticosteroids, emollients, and counseling on trigger avoidance.
+
+---
+<note> M 55 yo, fatigue, polyuria, polydipsia. Labs: TSH ↓, T4 ↑. <SEP>
+<report> A 55-year-old male presented with weight loss, palpitations, and increased sweating. 
+Laboratory tests revealed suppressed TSH and elevated T4. 
+This is consistent with hyperthyroidism. He was started on beta-blockers and referred to endocrinology for definitive management.
+
+---
+<note> F 40 yo, routine checkup, BP 135/85, BMI 28, cholesterol 240 mg/dL. <SEP>
+<report> A 40-year-old female presented for a routine health check. 
+Examination revealed mildly elevated blood pressure and BMI of 28. Laboratory tests showed hyperlipidemia with total cholesterol of 240 mg/dL. 
+She was counseled on lifestyle modification, diet, and exercise and started on statin therapy. Regular follow-up was scheduled in family medicine clinic.
+
+---
+<note> M 62 yo, right lower quadrant pain, fever, leukocytosis. CT: inflamed appendix. <SEP>
+<report> A 62-year-old male presented with acute onset right lower quadrant abdominal pain, fever, and nausea. 
+Laboratory tests showed leukocytosis, and CT scan demonstrated an inflamed appendix. 
+This is consistent with acute appendicitis. The patient was taken for laparoscopic appendectomy with perioperative antibiotics.
+
+---
+<note> F 50 yo, chronic diarrhea, weight loss, colonoscopy: multiple ulcers in colon. Biopsy: Crohn’s disease. <SEP>
+<report> A 50-year-old female presented with chronic diarrhea, abdominal pain, and weight loss. 
+Colonoscopy revealed multiple ulcers and strictures, and biopsy confirmed Crohn’s disease. 
+She was started on immunosuppressive therapy, nutritional support, and outpatient gastroenterology follow-up.
+
+---
+<note> M 45 yo, fatigue, HTN, routine labs: elevated creatinine, proteinuria. <SEP>
+<report> A 45-year-old male presented for routine follow-up with history of hypertension. 
+Laboratory tests revealed elevated serum creatinine and significant proteinuria. 
+This is consistent with chronic kidney disease secondary to hypertensive nephropathy. He was started on ACE inhibitors, advised on dietary modifications, and referred for nephrology follow-up.
+
+---
+<note> F 85 yo, confusion, falls, urinary incontinence, frail. <SEP>
+<report> An 85-year-old female presented with acute confusion, multiple falls, and worsening urinary incontinence. 
+Examination revealed frailty and impaired cognition. Laboratory and imaging workup excluded acute infection or stroke. 
+This is consistent with geriatric syndrome with delirium superimposed on chronic cognitive decline. Supportive care, fall prevention strategies, and geriatric consultation were initiated.
+
+---
+<note> M 50 yo, fatigue, pallor, bruising. CBC: pancytopenia, peripheral smear: blasts. <SEP>
+<report> A 50-year-old male presented with fatigue, pallor, and easy bruising. 
+Laboratory tests showed pancytopenia with circulating blasts on peripheral smear. 
+This is consistent with acute leukemia. He was admitted for hematology evaluation, initiation of chemotherapy, and supportive care.
+
+---
+<note> F 30 yo, recurrent infections, eczema, IgE ↑. <SEP>
+<report> A 30-year-old female presented with recurrent sinus and skin infections and a history of eczema. 
+Laboratory testing revealed elevated IgE and eosinophilia. 
+This is consistent with primary immunodeficiency, likely hyper IgE syndrome. She was referred to immunology for further evaluation and management.
+
+---
+<note> M 65 yo, fever, cough, recent travel to Africa. Blood smear: Plasmodium falciparum. <SEP>
+<report> A 65-year-old male presented with fever, chills, and malaise after recent travel to Africa. 
+Laboratory testing revealed parasitemia with Plasmodium falciparum. 
+This is consistent with severe falciparum malaria. He was admitted for intravenous antimalarial therapy and supportive care.
+
+---
+<note> F 58 yo, fatigue, weight loss, anemia, elevated ESR and CRP. <SEP>
+<report> A 58-year-old female presented with fatigue, weight loss, and anemia. 
+Laboratory tests revealed elevated inflammatory markers (ESR, CRP). She was evaluated for systemic autoimmune or inflammatory conditions and admitted for further internal medicine workup.
+
+---
+<note> M 47 yo, fatigue, bruising. Labs: anemia, thrombocytopenia, abnormal LFTs. <SEP>
+<report> A 47-year-old male presented with fatigue and easy bruising. 
+Laboratory studies revealed anemia, thrombocytopenia, and elevated liver enzymes. 
+He was referred to laboratory medicine for specialized hematologic and liver function studies to guide diagnosis.
+
+---
+<note> F 62 yo, hypertension, edema, creatinine 3.2 mg/dL, proteinuria 4g/day. <SEP>
+<report> A 62-year-old female presented with worsening lower limb edema and decreased urine output. 
+Laboratory tests revealed elevated serum creatinine and nephrotic range proteinuria. 
+This is consistent with nephrotic syndrome secondary to chronic kidney disease. She was admitted for nephrology management, diuretics, and renal biopsy planning.
+
+---
+<note> M 34 yo, depressed mood, auditory hallucinations, impaired functioning. <SEP>
+<report> A 34-year-old male presented with low mood, auditory hallucinations, and impaired occupational functioning. 
+He was diagnosed with major depressive disorder with psychotic features. Neuropsychiatry consultation was obtained for initiation of antipsychotic and antidepressant therapy.
+
+---
+<note> F 70 yo, sudden weakness right arm and leg, facial droop. CT brain: left MCA infarct. <SEP>
+<report> A 70-year-old female presented with sudden onset right-sided weakness and facial droop. 
+CT scan of the brain revealed acute infarct in the left middle cerebral artery territory. 
+She was admitted to neurology for thrombolysis evaluation, supportive care, and secondary stroke prevention.
+
+---
+<note> M 55 yo, progressive headaches, gait instability. MRI: cerebellar mass. <SEP>
+<report> A 55-year-old male presented with progressive headaches, nausea, and gait instability. 
+MRI demonstrated a cerebellar mass. This is consistent with a posterior fossa tumor. He was referred to neurosurgery for resection and perioperative care.
+
+---
+<note> F 68 yo, bone pain, hypercalcemia. Nuclear bone scan: multiple areas of increased uptake. <SEP>
+<report> A 68-year-old female presented with diffuse bone pain and fatigue. 
+Laboratory studies revealed hypercalcemia. Nuclear medicine bone scan showed multiple areas of increased uptake suggestive of metastatic bone disease. 
+She was referred to oncology for further evaluation and management.
+---
+
+<note> M 47 yo, HA, blurry vision, BP 210/120. Fundoscopy: papilledema. Creat 2.5. <SEP>
+<report> A 47-year-old male presented with severe headache, blurry vision, and nausea. His blood pressure was 210/120 mmHg on arrival.
+Fundoscopy revealed papilledema. Laboratory results showed elevated serum creatinine of 2.5 mg/dL, consistent with renal involvement.
+This presentation is concerning for hypertensive emergency with end-organ damage affecting the kidneys and eyes.
+The patient was admitted to the ICU and started on intravenous antihypertensives for gradual BP control. Nephrology and ophthalmology were consulted.
+---
+
+<note> F 38 yo, abd pain, jaundice, pruritus. ALT, AST, ALP ↑. US: dilated bile ducts. <SEP>
+<report> A 38-year-old female presented with abdominal pain, jaundice, and generalized pruritus.
+Lab work revealed elevated ALT, AST, and alkaline phosphatase. Abdominal ultrasound showed intra- and extrahepatic bile duct dilation.
+Findings are consistent with obstructive jaundice, likely secondary to choledocholithiasis.
+The patient was referred for ERCP for stone extraction. Supportive care and monitoring of liver function were initiated.
+---
+
+<note> M 70 yo, confusion, fever, productive cough. CXR: RLL consolidation. WBC 18k. <SEP>
+<report> A 70-year-old male presented with acute confusion, fever, and productive cough.
+On exam, he was febrile, tachypneic, and hypoxic. Chest X-ray revealed right lower lobe consolidation. Laboratory tests showed WBC 18,000.
+The patient was diagnosed with community-acquired pneumonia complicated by sepsis and delirium.
+He was admitted for intravenous antibiotics, oxygen supplementation, and close monitoring in a step-down unit.
+---
+
+<note> F 45 yo, wt gain, cold intolerance, constipation. TSH markedly ↑, T4 ↓. <SEP>
+<report> A 45-year-old female presented with weight gain, cold intolerance, constipation, and fatigue.
+Physical exam showed dry skin and delayed relaxation of deep tendon reflexes. Laboratory studies revealed elevated TSH and low T4 levels.
+These findings are consistent with hypothyroidism.
+She was started on levothyroxine replacement therapy and referred to endocrinology for follow-up.
+---
+
+<note> M 60 yo, smoker, hemoptysis, wt loss. CT chest: 5 cm LUL mass with hilar nodes. <SEP>
+<report> A 60-year-old male with a significant smoking history presented with cough, hemoptysis, and unintentional weight loss.
+Chest CT revealed a 5 cm left upper lobe mass with hilar lymphadenopathy, highly suspicious for lung carcinoma.
+The patient was referred for bronchoscopy and tissue biopsy to confirm diagnosis and guide staging.
+Smoking cessation counseling and oncology referral were initiated.
+---
+
+<note> F 33 yo, SOB, wheeze, hx asthma. PE: widespread wheezing, SpO2 88%. <SEP>
+<report> A 33-year-old female with a known history of asthma presented with acute shortness of breath and wheezing.
+On arrival, she was tachypneic, with widespread expiratory wheezes on auscultation and oxygen saturation of 88% on room air.
+She was treated with nebulized bronchodilators, systemic corticosteroids, and supplemental oxygen.
+The patient improved with therapy and was admitted for further monitoring and asthma management education.
+---
+
+<note> F 29 yo, G2P1 at 32 weeks gestation, severe lower abdominal pain, vaginal bleeding, uterine tenderness. US: placental abruption suspected, fetal HR 90 bpm. <SEP>
+<report> A 29-year-old female, gravida 2 para 1, at 32 weeks gestation presented with acute onset lower abdominal pain and vaginal bleeding. She reported reduced fetal movements over the past hour. On examination, she was tachycardic, hypotensive, and in moderate distress. Abdominal examination revealed a tender, firm uterus with hypertonicity. Fetal heart rate was noted to be 90 bpm, raising concerns for fetal compromise. Ultrasound imaging demonstrated retroplacental clot and findings suggestive of placental abruption. 
+The patient was resuscitated with intravenous fluids and blood products, continuous fetal monitoring was initiated, and emergent obstetric consultation was obtained. Plans for urgent cesarean delivery were discussed due to risk of fetal and maternal compromise, and she was prepared for operative intervention.
+
+---
+<note> M 48 yo, factory worker, persistent cough, dyspnea on exertion, occupational exposure to silica dust. Chest XR: nodular opacities upper lobes. Pulmonary function: restrictive pattern. <SEP>
+<report> A 48-year-old male, employed in construction, presented with a 6-month history of persistent dry cough and progressive shortness of breath on exertion. He reported occupational exposure to silica dust without consistent protective measures. Physical examination revealed bibasilar crackles and clubbing of fingers. Chest radiograph showed multiple small nodular opacities in both upper lobes. Pulmonary function testing demonstrated a restrictive pattern with reduced FVC and FEV1. 
+These findings are consistent with silicosis, an occupational lung disease. He was counseled on cessation of exposure, offered pulmonary rehabilitation, and referred to occupational medicine for ongoing monitoring and compensation assessment. Smoking cessation counseling was provided to minimize additional pulmonary risk.
+
+---
+<note> F 63 yo, unintentional weight loss, night sweats, persistent cough. CT chest: 4.5 cm RUL mass, mediastinal lymphadenopathy. PET-CT: hypermetabolic lesions. <SEP>
+<report> A 63-year-old female presented with a 3-month history of unintentional weight loss, night sweats, and persistent non-productive cough. She denied hemoptysis but reported increasing fatigue and occasional dyspnea on exertion. Physical examination revealed mild cachexia and decreased breath sounds over the right upper lung field. CT chest demonstrated a 4.5 cm right upper lobe mass with associated mediastinal lymphadenopathy. PET-CT confirmed hypermetabolic activity in the mass and mediastinal nodes, suspicious for malignancy. 
+Given the clinical and radiological findings, primary lung carcinoma is highly suspected. She was referred to oncology for tissue diagnosis via bronchoscopy-guided biopsy, staging, and initiation of multidisciplinary management, including surgical evaluation, chemotherapy, and potential radiotherapy.
+
+---
+<note> M 57 yo, gradual vision loss, floaters, halos, pain in both eyes. Fundoscopy: optic disc cupping, intraocular pressure 34 mmHg bilaterally. Visual fields: peripheral constriction. <SEP>
+<report> A 57-year-old male presented with progressive bilateral vision loss, intermittent floaters, halos around lights, and ocular discomfort over the past 6 months. He also reported difficulty driving at night. On examination, visual acuity was reduced bilaterally. Fundoscopy revealed optic disc cupping with increased cup-to-disc ratio. Intraocular pressures measured 34 mmHg in both eyes, and automated visual field testing demonstrated peripheral field constriction consistent with early glaucomatous damage. 
+The patient was diagnosed with primary open-angle glaucoma. He was started on topical intraocular pressure-lowering agents including prostaglandin analogues and beta-blockers, and referred to ophthalmology for ongoing monitoring and potential laser trabeculoplasty. Counseling on lifestyle measures and adherence to therapy was provided to reduce risk of progression.
+
+---
+<note> F 26 yo, mandibular pain and swelling after motorbike accident, malocclusion, limited mouth opening. CT: left mandibular body fracture, dental root involvement. <SEP>
+<report> A 26-year-old female presented following a motorbike accident with left-sided mandibular pain, swelling, and difficulty opening her mouth. She also reported malocclusion and numbness in the left lower lip. On examination, there was facial asymmetry, tenderness over the left mandibular body, and limited interincisal opening of 15 mm. CT imaging demonstrated a displaced fracture of the left mandibular body extending to the alveolar process with involvement of adjacent dental roots. 
+The patient was referred to oral and maxillofacial surgery for open reduction and internal fixation. Preoperative planning included evaluation of dental root preservation, and she was counseled on postoperative care, pain management, and dietary modifications. Follow-up was scheduled to monitor healing and occlusal alignment.
+
+---
+<note> M 34 yo, R knee pain, swelling, inability to bear weight after soccer injury. Exam: effusion, positive Lachman test. MRI: ACL tear, medial meniscus injury. <SEP>
+<report> A 34-year-old male presented with acute right knee pain and swelling after twisting his knee during a soccer game. He reported immediate difficulty bearing weight and a popping sensation at the time of injury. Physical examination revealed moderate effusion, tenderness over the joint line, and a positive Lachman test indicating anterior cruciate ligament instability. MRI of the knee confirmed a complete ACL tear with associated medial meniscus injury. 
+He was referred to orthopaedics for arthroscopic reconstruction of the ACL and meniscus repair. Preoperative rehabilitation was initiated to reduce swelling and improve quadriceps strength, and postoperative physiotherapy plans were outlined to restore function and prevent re-injury.
+
+---
+<note> F 42 yo, chronic sinus congestion, anosmia, recurrent epistaxis. Nasal endoscopy: polypoid lesions bilateral. CT sinuses: extensive polyposis. <SEP>
+<report> A 42-year-old female presented with long-standing nasal congestion, anosmia, and recurrent minor epistaxis. She reported worsening symptoms over the past 12 months despite intranasal steroid therapy. Nasal endoscopy revealed multiple polypoid lesions bilaterally obstructing the nasal passages. CT imaging of the paranasal sinuses demonstrated extensive sinonasal polyposis with partial opacification of the ethmoid and maxillary sinuses. 
+She was referred to otorhinolaryngology for functional endoscopic sinus surgery. Preoperative counseling included medical optimization with corticosteroids, management of comorbid asthma, and postoperative care with saline irrigations and follow-up endoscopic assessment.
+
+---
+<note> M 3 yo, abdominal distension, bilious vomiting, failure to pass meconium. Abdominal XR: dilated loops, transition point in ileum. <SEP>
+<report> A 3-year-old male presented with sudden onset abdominal distension, bilious vomiting, and failure to pass meconium over the past 24 hours. His parents noted lethargy and poor oral intake. On examination, he was dehydrated, with abdominal distension and hyperactive bowel sounds. Abdominal radiograph revealed multiple dilated small bowel loops with air-fluid levels and a transition point in the distal ileum. 
+The patient was diagnosed with intestinal obstruction, likely secondary to congenital malrotation or post-ileal adhesions. He was admitted to paediatric surgery for nasogastric decompression, intravenous fluid resuscitation, and surgical intervention with laparotomy planned to relieve obstruction and assess bowel viability.
+
+---
+<note> F 5 yo, fever, cough, difficulty breathing, wheezing. Chest auscultation: bilateral crackles and expiratory wheeze. SpO2 88% RA. <SEP>
+<report> A 5-year-old female presented with a 2-day history of fever, productive cough, and worsening shortness of breath. She had a history of recurrent respiratory infections and mild atopy. On examination, she was tachypneic, with intercostal retractions, nasal flaring, and oxygen saturation of 88% on room air. Auscultation revealed bilateral crackles and widespread expiratory wheeze. 
+She was diagnosed with acute lower respiratory tract infection exacerbating underlying reactive airway disease. She was admitted for oxygen therapy, nebulized bronchodilators, systemic corticosteroids, and intravenous antibiotics. Family education on inhaler use, follow-up monitoring, and vaccination status review were also provided.
+
+---
+<note> M 58 yo, painless hematuria, weight loss, smoker. Cystoscopy: irregular bladder lesion. Biopsy: urothelial carcinoma. <SEP>
+<report> A 58-year-old male presented with painless gross hematuria and unintentional weight loss over the past 2 months. He reported a 30-pack-year smoking history and no previous urologic issues. Cystoscopic examination revealed an irregular mass on the lateral wall of the bladder. Histopathology from biopsy confirmed high-grade urothelial carcinoma. 
+The patient was referred to urology and oncology for staging investigations including CT urography and consideration of radical cystectomy versus intravesical therapy. Counseling regarding smoking cessation, risk of recurrence, and potential need for adjuvant therapy was provided.
+
+---
+<note> F 50 yo, dizziness, neuropathic pain in feet, fatigue, multiple joint swelling. Labs: ANA+, RF+, ESR ↑. <SEP>
+<report> A 50-year-old female presented with chronic fatigue, dizziness, and progressive neuropathic pain in her feet over the past 6 months. She also reported morning stiffness and swelling of multiple small joints in the hands and wrists. Laboratory tests revealed positive ANA and rheumatoid factor, with elevated ESR. Imaging of the hands showed early erosive changes in the metacarpophalangeal joints. 
+These findings are consistent with seropositive rheumatoid arthritis with peripheral neuropathy. She was referred to rheumatology for initiation of disease-modifying antirheumatic drugs (DMARDs), neuropathic pain management, and physiotherapy to preserve joint function.
+
+---
+<note> M 38 yo, deep laceration to forearm from kitchen accident, exposed tendon, bleeding controlled. <SEP>
+<report> A 38-year-old male presented with a deep transverse laceration to the volar aspect of the right forearm sustained from a kitchen knife. The wound exposed the flexor tendon and surrounding fascia. Hemostasis was achieved with direct pressure. On examination, there was intact distal sensation and capillary refill, but limited active flexion at the wrist. Tetanus status was updated, and wound cultures were taken. 
+He was referred to plastic surgery for meticulous tendon repair and layered wound closure under sterile conditions. Postoperative plan included immobilization in a splint, antibiotic prophylaxis, pain management, and early supervised physiotherapy to optimize functional recovery.
+
+---
+<note> F 61 yo, plantar ulcer, diabetes mellitus type 2, non-healing for 6 weeks, mild cellulitis. <SEP>
+<report> A 61-year-old female with longstanding type 2 diabetes mellitus presented with a non-healing plantar ulcer on the right foot persisting for 6 weeks. She reported mild pain and swelling around the lesion. Examination revealed erythema, warmth, and induration around the ulcer, with no signs of osteomyelitis on plain radiograph. Peripheral pulses were palpable, but neuropathy was noted on monofilament testing. 
+She was referred to podiatric surgery for debridement, offloading, and infection control. Wound care included daily dressing changes, optimization of glycemic control, and education on foot care to prevent recurrence. Multidisciplinary follow-up with endocrinology and vascular surgery was arranged.
+
+---
+<note> M 45 yo, sedentary lifestyle, BMI 32, hypertension, dyslipidemia, pre-diabetes. Counseling on lifestyle, screening, immunizations. <SEP>
+<report> A 45-year-old male presented for a preventive medicine assessment. He reported a sedentary lifestyle, high-fat diet, and occasional alcohol use. Physical examination revealed BMI 32, blood pressure 148/92 mmHg, and waist circumference of 110 cm. Laboratory tests demonstrated dyslipidemia and impaired fasting glucose. Vaccination status was incomplete for influenza and pneumococcus. 
+He was counseled extensively on lifestyle modifications including exercise, nutrition, and weight reduction. Screening for cardiovascular risk factors, colon cancer, and diabetes was initiated. Immunizations were updated, and a follow-up plan was established for ongoing preventive care and monitoring.
+
+---
+<note> F 37 yo, anxiety, panic attacks, difficulty sleeping, poor concentration, family history depression. <SEP>
+<report> A 37-year-old female presented with recurrent panic attacks, generalized anxiety, insomnia, and difficulty concentrating over the past 6 months. She described excessive worry about work and family health, with accompanying palpitations and gastrointestinal discomfort. Family history was significant for major depressive disorder. Mental status examination revealed anxious affect, hypervigilance, and no psychosis. 
+She was diagnosed with generalized anxiety disorder with panic features and referred to psychiatry for combined cognitive-behavioral therapy and pharmacotherapy with selective serotonin reuptake inhibitors. Stress management techniques and sleep hygiene counseling were also provided.
+
+---
+<note> M 55 yo, community leader, concerned about influenza outbreak in town, requests vaccination and public education plan. <SEP>
+<report> A 55-year-old male, a local community leader, consulted regarding concerns about a recent influenza outbreak in his town. He reported high absenteeism in schools and workplaces and sought guidance on vaccination strategies and public health measures. Epidemiologic data were reviewed, revealing low local vaccination coverage and clusters of symptomatic individuals. 
+Public health interventions were planned including mass vaccination campaigns, health education on hand hygiene and respiratory etiquette, and establishment of rapid reporting and surveillance systems. Coordination with local healthcare providers and schools was initiated to reduce transmission and monitor outbreak progression.
+
+---
+<note> F 62 yo, breast cancer, left mastectomy 2 weeks ago, referred for adjuvant radiotherapy planning. CT chest: post-op changes, no metastases. <SEP>
+<report> A 62-year-old female presented for planning adjuvant radiotherapy following left mastectomy for invasive ductal carcinoma. Postoperative recovery was uneventful, and she reported mild surgical site discomfort. CT scan of the chest showed post-surgical changes without evidence of residual disease or distant metastases. 
+She was referred to radiation oncology for detailed treatment planning including target delineation, dose calculation, and scheduling of fractionated therapy. Counseling on expected side effects, skin care, and follow-up imaging was provided to ensure optimal outcomes and minimize complications.
+
+---
+<note> M 45 yo, acute back pain after lifting, no trauma, numbness in right leg. MRI spine: L4-L5 disc herniation compressing nerve root. <SEP>
+<report> A 45-year-old male presented with acute onset lower back pain radiating to the right leg following lifting of a heavy object at work. He reported numbness and tingling in the right foot but denied bowel or bladder dysfunction. Physical examination revealed tenderness over L4-L5, positive straight leg raise on the right, and diminished ankle reflex. MRI spine demonstrated a herniated disc at L4-L5 with compression of the right L5 nerve root. 
+He was managed conservatively with analgesia, anti-inflammatory medications, and referral to radiology-guided epidural steroid injection. Instructions on activity modification, posture, and physiotherapy were provided, with follow-up to assess for resolution or need for surgical intervention.
+
+---
+<note> F 68 yo, chronic cough, wheezing, exertional dyspnea, smoker 40 pack-years. Spirometry: FEV1 45% predicted, reversible component 12%. <SEP>
+<report> A 68-year-old female presented with chronic cough, progressive exertional dyspnea, and wheezing over several years. She had a 40-pack-year smoking history and a prior diagnosis of COPD. Physical examination revealed barrel chest, decreased breath sounds, and prolonged expiratory phase. Spirometry demonstrated an FEV1 of 45% predicted, with a 12% reversibility after bronchodilator. Chest imaging showed hyperinflated lungs without consolidation. 
+She was diagnosed with moderate to severe COPD with partial reversible component. Management included inhaled long-acting bronchodilators, pulmonary rehabilitation, smoking cessation support, vaccination updates, and long-term follow-up for exacerbation prevention and oxygen therapy evaluation.
+
+---
+<note> M 50 yo, morning stiffness >1 hour, joint swelling in hands and wrists, fatigue, weight loss. Labs: RF+, anti-CCP+, ESR 65 mm/hr. <SEP>
+<report> A 50-year-old male presented with generalized fatigue, morning stiffness lasting over one hour, and progressive swelling in multiple small joints of the hands and wrists. Physical examination revealed synovial thickening, tenderness, and decreased grip strength. Laboratory studies demonstrated positive rheumatoid factor, anti-CCP antibodies, and elevated ESR. Imaging of the hands showed marginal erosions and joint space narrowing. 
+He was diagnosed with seropositive rheumatoid arthritis with active inflammation. Management included initiation of disease-modifying antirheumatic drugs (DMARDs), NSAIDs for symptomatic relief, physiotherapy to preserve joint function, and regular monitoring of disease activity and complications.
+
+---
+<note> F 42 yo, chronic tooth pain, swelling right mandibular molar region, intraoral exam: carious lesion, abscess formation. <SEP>
+<report> A 42-year-old female presented with chronic dental pain and swelling in the right lower molar region, worsening over the past 10 days. She reported difficulty eating and mild fever. Intraoral examination revealed caries of the second molar with purulent discharge, gingival erythema, and fluctuance consistent with abscess formation. Radiographs demonstrated periapical radiolucency. 
+She was referred to stomatology for abscess drainage, endodontic therapy, and oral hygiene education. Antibiotic therapy and analgesics were initiated, and follow-up was arranged to monitor resolution and prevent recurrence.
+
+---
+<note> M 60 yo, sudden onset chest pain, dyspnea, hemoptysis, hypotension. CTPA: acute pulmonary embolism involving main pulmonary artery. <SEP>
+<report> A 60-year-old male presented with sudden severe chest pain, shortness of breath, hemoptysis, and near-syncope. On examination, he was hypotensive, tachycardic, and hypoxic. ECG showed sinus tachycardia with S1Q3T3 pattern. D-dimer was elevated. CTPA confirmed an acute pulmonary embolism involving the main pulmonary artery and segmental branches. 
+He was admitted to vascular surgery and intensive care for anticoagulation with intravenous unfractionated heparin, hemodynamic support, and consideration for catheter-directed thrombolysis. Risk stratification and long-term anticoagulation planning were discussed, along with evaluation for underlying prothrombotic conditions.
+
+---
+<note> F 27 yo, painful genital ulcer, inguinal lymphadenopathy, history of unprotected sexual contact. Swab: Gram-negative intracellular diplococci. <SEP>
+<report> A 27-year-old female presented with a 5-day history of painful genital ulcer and tender left inguinal lymphadenopathy. She reported a recent unprotected sexual encounter. On examination, a single well-demarcated ulcer with purulent base was noted. Swab from the lesion revealed Gram-negative intracellular diplococci on microscopy. 
+She was diagnosed with chancroid caused by Haemophilus ducreyi. She was treated with appropriate antibiotic therapy, counseled regarding sexual transmission, notified partners for evaluation, and advised on safe sexual practices. Follow-up was scheduled to ensure complete healing and prevent recurrence.
+---
+
+<note> M 28 yo, motorcycle accident, LOC, GCS 12. CT head: EDH. <SEP>
+<report> A 28-year-old male was brought to the emergency department following a motorcycle accident with brief loss of consciousness. On arrival, his Glasgow Coma Scale was 12. CT head revealed an epidural hematoma with mass effect. The patient was intubated for airway protection and started on mannitol for intracranial pressure control. Neurosurgery was consulted emergently for surgical evacuation. Continuous neurological monitoring was initiated in the trauma ICU.
+
+<note> F 35 yo, facial swelling, urticaria after shrimp. BP 80/50, stridor. <SEP>
+<report> A 35-year-old female presented with acute facial swelling, generalized urticaria, and difficulty breathing after eating shrimp at a restaurant. On examination, she was hypotensive at 80/50 mmHg with audible stridor. This presentation is consistent with anaphylaxis. She was immediately treated with intramuscular epinephrine, IV corticosteroids, and H1/H2 antihistamines. Fluid resuscitation was initiated, and she was observed in the emergency department. Epinephrine auto-injectors were prescribed for future use.
+
+<note> M 52 yo, scheduled cholecystectomy. Hx: OSA, BMI 38. Mallampati IV. <SEP>
+<report> A 52-year-old male presented for elective laparoscopic cholecystectomy. His medical history is significant for obstructive sleep apnea and morbid obesity with BMI of 38. Airway assessment revealed Mallampati class IV with limited neck extension. Given his difficult airway anatomy and OSA, awake fiberoptic intubation was planned. Postoperatively, he was monitored closely in the recovery area with continuous pulse oximetry and capnography before discharge to the surgical ward.
+
+<note> F 68 yo, exertional chest pain, positive stress test. Cath: 90% LAD stenosis. <SEP>
+<report> A 68-year-old female with a history of hypertension and diabetes presented with exertional chest pain. Stress testing was positive for ischemia in the anterior territory. Cardiac catheterization revealed 90% stenosis of the left anterior descending artery with normal left ventricular function. She underwent percutaneous coronary intervention with drug-eluting stent placement. Post-procedure, she was started on dual antiplatelet therapy and optimized medical management including high-intensity statin therapy.
+
+<note> M 8 yo, aggressive behavior, poor concentration, school problems. ADHD rating scale: severe. <SEP>
+<report> An 8-year-old male was brought by his parents for evaluation of aggressive behavior, poor concentration, and declining school performance. Teachers report frequent disruptions and inability to complete tasks. ADHD rating scales completed by parents and teachers indicate severe symptoms consistent with attention deficit hyperactivity disorder, combined presentation. The child was started on methylphenidate with dose titration planned. Behavioral therapy and school accommodations were recommended.
+
+<note> F 42 yo, recurrent UTIs, microscopic hematuria. Cystoscopy: bladder lesion. Cytology: atypical cells. <SEP>
+<report> A 42-year-old female with recurrent urinary tract infections and persistent microscopic hematuria underwent cystoscopy revealing a suspicious bladder lesion. Urine cytology showed atypical cells. Transurethral resection of the bladder tumor was performed, and pathology confirmed high-grade urothelial carcinoma. The patient was referred to oncology for adjuvant intravesical therapy. Regular surveillance cystoscopy was planned.
+
+<note> M 65 yo, new-onset seizures, confusion. LP: protein 180, glucose 25, pleocytosis. HSV PCR pending. <SEP>
+<report> A 65-year-old male presented with new-onset seizures and progressive confusion over 48 hours. Lumbar puncture revealed elevated protein at 180 mg/dL, low glucose at 25 mg/dL, and lymphocytic pleocytosis. MRI showed temporal lobe enhancement. HSV PCR is pending, but findings are highly suggestive of viral encephalitis. He was started on empirical acyclovir and levetiracetam for seizure control. Intensive monitoring in the neurological ICU was initiated.
+
+<note> F 25 yo, facial asymmetry, inability to close right eye, drooping mouth corner. <SEP>
+<report> A 25-year-old female presented with acute onset right-sided facial weakness, inability to close her right eye, and drooping of the right mouth corner. Examination revealed loss of forehead wrinkles and absent nasolabial fold on the right. No other neurological deficits were noted. Clinical findings are consistent with Bell's palsy (idiopathic facial nerve paralysis). She was started on oral prednisone within 72 hours of symptom onset. Eye protection measures and facial exercises were recommended.
+
+<note> M 55 yo, T2DM, polyuria, polydipsia, blurred vision. HbA1c 14.2%, ketones negative. <SEP>
+<report> A 55-year-old male with type 2 diabetes mellitus presented with worsening polyuria, polydipsia, and blurred vision. Laboratory results showed HbA1c of 14.2% with fasting glucose of 420 mg/dL. Serum and urine ketones were negative. This represents severe hyperglycemia without ketosis. He was started on intensive insulin therapy with basal-bolus regimen. Diabetes education, dietary counseling, and ophthalmology referral for diabetic retinopathy screening were arranged.
+
+<note> F 48 yo, fatigue, joint pain, malar rash, ANA 1:1280 speckled. Anti-dsDNA positive. <SEP>
+<report> A 48-year-old female presented with fatigue, polyarthralgias, and photosensitive malar rash. Laboratory studies revealed ANA titer of 1:1280 with speckled pattern and positive anti-double-stranded DNA antibodies. Complete blood count showed mild lymphopenia. These clinical and laboratory findings meet criteria for systemic lupus erythematosus. She was started on hydroxychloroquine and referred to rheumatology for further management and monitoring.
+
+<note> M 34 yo, epigastric pain, nausea, vomiting. Lipase 1200 U/L. CT: pancreatic edema, peripancreatic fluid. <SEP>
+<report> A 34-year-old male presented with severe epigastric pain radiating to the back, associated with nausea and vomiting. Physical examination revealed epigastric tenderness without rebound. Laboratory studies showed elevated lipase at 1200 U/L. CT abdomen demonstrated pancreatic edema with peripancreatic fluid collection, consistent with acute pancreatitis. The patient was admitted for bowel rest, IV fluid resuscitation, and pain control. Alcohol cessation counseling was provided.
+
+<note> F 78 yo, post-op day 1 hip fracture repair, confusion, sundowning, agitation. <SEP>
+<report> A 78-year-old female, post-operative day 1 following hip fracture repair, developed acute confusion, agitation, and sundowning behavior. She was previously oriented and independent. Physical examination and laboratory studies ruled out infection, electrolyte imbalance, and medication toxicity. This presentation is consistent with post-operative delirium in an elderly patient. Non-pharmacological interventions including reorientation, sleep hygiene, and family presence were implemented. Low-dose haloperidol was considered for severe agitation.
+
+<note> M 19 yo, fatigue, pallor, petechiae. CBC: Hgb 6.2, WBC 2.1, plt 28k. Blasts 65%. <SEP>
+<report> A 19-year-old male presented with progressive fatigue, pallor, and spontaneous petechiae. Complete blood count revealed severe pancytopenia with hemoglobin 6.2 g/dL, WBC 2100/μL, and platelets 28,000/μL. Peripheral smear showed 65% blast cells. Bone marrow biopsy confirmed acute lymphoblastic leukemia. The patient was admitted for induction chemotherapy and supportive care including blood product transfusions and infection prophylaxis. Oncology consultation was obtained.
+
+<note> F 32 yo, recurrent infections, swollen lymph nodes, abnormal flow cytometry. Immunoglobulin levels low. <SEP>
+<report> A 32-year-old female with a history of recurrent bacterial infections and persistent lymphadenopathy underwent immunological evaluation. Flow cytometry revealed absent B-cells and low immunoglobulin levels across all classes. T-cell function was normal. These findings are consistent with common variable immunodeficiency. She was started on monthly intravenous immunoglobulin replacement therapy and counseled on infection prevention strategies. Regular monitoring of immunoglobulin levels was planned.
+
+<note> M 45 yo, fever, night sweats, travel to India. Blood smear: ring forms, banana-shaped gametocytes. <SEP>
+<report> A 45-year-old male presented with fever, chills, and night sweats three weeks after returning from India. Physical examination revealed splenomegaly and mild jaundice. Thick and thin blood smears demonstrated ring-form trophozoites and banana-shaped gametocytes consistent with Plasmodium falciparum malaria. He was started on artemether-lumefantrine combination therapy and monitored for complications including cerebral malaria and acute renal failure.
+
+<note> F 56 yo, fatigue, weight loss, lymphadenopathy. CT: mediastinal masses. Biopsy pending. <SEP>
+<report> A 56-year-old female presented with progressive fatigue, unintentional weight loss, and palpable supraclavicular lymphadenopathy. CT chest revealed multiple mediastinal masses and bilateral hilar lymphadenopathy. Excisional lymph node biopsy is pending for histological diagnosis. Laboratory studies showed elevated LDH and normal CBC. The differential diagnosis includes lymphoma, metastatic carcinoma, and sarcoidosis. Oncology consultation was obtained pending biopsy results.
+
+<note> M 62 yo, CKD stage 4, creatinine 3.8, hyperkalemia, metabolic acidosis. Preparing for dialysis. <SEP>
+<report> A 62-year-old male with chronic kidney disease stage 4 secondary to diabetic nephropathy presented for pre-dialysis evaluation. Laboratory studies showed creatinine 3.8 mg/dL, hyperkalemia at 5.8 mEq/L, and metabolic acidosis. He was counseled regarding renal replacement therapy options and elected for hemodialysis. Arteriovenous fistula creation was planned, and dietary restrictions including potassium and phosphorus limitation were implemented. Nephrology follow-up was scheduled.
+
+<note> F 39 yo, depression, anxiety, insomnia, difficulty concentrating. PHQ-9: severe depression. <SEP>
+<report> A 39-year-old female presented with persistent low mood, anxiety, insomnia, and difficulty concentrating affecting her work and relationships. PHQ-9 score indicated severe depression. Mental status examination revealed depressed affect, psychomotor retardation, and negative cognitive distortions. She denied suicidal ideation. Treatment with selective serotonin reuptake inhibitor was initiated along with referral for cognitive-behavioral therapy. Close follow-up was arranged to monitor response and side effects.
+
+<note> M 71 yo, progressive weakness, tremor, bradykinesia, rigidity. DaTscan: reduced uptake. <SEP>
+<report> A 71-year-old male presented with progressive resting tremor, bradykinesia, and cogwheel rigidity affecting his right side more than left. Gait examination showed shuffling with reduced arm swing. DaTscan demonstrated reduced dopamine transporter uptake in the striatum, consistent with Parkinson's disease. He was started on carbidopa-levodopa with gradual dose escalation. Physical therapy and occupational therapy referrals were made for mobility and activities of daily living.
+
+<note> F 43 yo, severe headaches, visual field defects. MRI: sellar mass. Prolactin >200. <SEP>
+<report> A 43-year-old female presented with severe headaches and visual field defects. MRI brain revealed a 2.5 cm sellar mass with suprasellar extension compressing the optic chiasm. Laboratory studies showed prolactin level >200 ng/mL. These findings are consistent with a prolactinoma causing mass effect. She was started on cabergoline and referred to neurosurgery for evaluation. Ophthalmology consultation was obtained for formal visual field testing and monitoring.
+
+<note> M 58 yo, bone scan: multiple hot spots. PSA 125, Gleason 4+5. Staging for metastatic prostate cancer. <SEP>
+<report> A 58-year-old male with newly diagnosed high-grade prostate cancer (Gleason 4+5) underwent staging evaluation. PSA level was 125 ng/mL. Bone scan revealed multiple areas of increased uptake consistent with osseous metastases in the spine, pelvis, and ribs. CT abdomen showed pelvic lymphadenopathy. This represents metastatic castration-sensitive prostate cancer. He was started on androgen deprivation therapy and referred to oncology for consideration of chemotherapy.
+
+---
+<note> M 32 yo, high fever, severe generalized abdominal pain radiating to back, hypotensive, tachycardic, pale, vomiting, history of trauma. 
+FAST scan: free fluid in abdomen, possible solid organ injury. <SEP>
+
+<report> A 32-year-old male presented to the emergency department with acute onset of severe generalized abdominal pain. 
+Pain radiated to his back, associated with high-grade fever, hypotension, tachycardia, pallor, and vomiting after a minor motor vehicle collision. 
+He described the pain as constant, severe, and worsening over the past hour, associated with lightheadedness. 
+On examination, his abdomen was rigid with marked tenderness and signs of peritoneal irritation. 
+FAST scan demonstrated free intraperitoneal fluid with suspicious findings for possible splenic or hepatic injury. 
+Laboratory investigations revealed a drop in hemoglobin and elevated white blood cell count. 
+Given the hemodynamic instability and imaging findings, this presentation is consistent with traumatic intra-abdominal injury complicated by hemorrhage. 
+The patient was rapidly resuscitated with intravenous crystalloids and transfused blood products, and emergent surgical consultation was obtained. 
+He was taken immediately to the operating room for exploratory laparotomy, with preparations for possible splenectomy or liver repair. 
+Postoperatively, he was monitored in the ICU with serial hemoglobin checks, fluid resuscitation, pain control, and infection prophylaxis. 
+Continuous hemodynamic monitoring and multidisciplinary coordination with trauma surgery, anesthesia, and critical care were initiated.
+
+---
+<note> F 28 yo, recurrent urticaria, angioedema involving lips and eyelids, generalized pruritus, hx of peanut allergy, mild wheezing during episodes. 
+Previous ER visits noted. <SEP>
+
+<report> A 28-year-old female presented with recurrent episodes of generalized urticaria and angioedema affecting lips and eyelids. 
+She also reported mild wheezing and multiple emergency visits in the past year for similar episodes. 
+The patient has a known history of peanut allergy, with symptoms typically occurring within minutes of accidental exposure. 
+On examination, she was hemodynamically stable but had widespread erythematous hives and periorbital edema. 
+No respiratory distress was observed, and oxygen saturation was normal. 
+This clinical picture is consistent with IgE-mediated hypersensitivity reactions leading to anaphylaxis risk. 
+Immediate management included intramuscular epinephrine, intravenous antihistamines, and corticosteroids. 
+She was closely observed for biphasic reactions and monitored for airway compromise. 
+Comprehensive education was provided on strict allergen avoidance, recognition of early symptoms, and carrying an epinephrine auto-injector. 
+Referral to an allergist was made for immunologic testing, personalized emergency action plan, and long-term follow-up.
+
+---
+<note> M 45 yo, undergoing elective total knee arthroplasty, intraoperative hypotension, tachycardia, difficulty ventilating, decreased end-tidal CO2, facial flushing. 
+Prior mild penicillin allergy. <SEP>
+
+<report> A 45-year-old male undergoing elective total knee arthroplasty developed sudden hypotension and tachycardia during surgery. 
+Anesthetic monitoring revealed decreased end-tidal CO2, difficulty ventilating, and mild facial flushing. 
+The patient had a prior history of mild penicillin allergy but no known drug-induced anaphylaxis. 
+These findings raised concern for possible intraoperative anaphylaxis or pulmonary embolism. 
+Immediate management included intravenous fluid resuscitation, initiation of vasopressors, intramuscular and intravenous epinephrine, and airway support. 
+The surgical procedure was paused while hemodynamic stabilization was achieved. 
+Postoperatively, the patient was transferred to the intensive care unit for continuous monitoring. 
+Invasive arterial pressure monitoring and serial blood gas analysis were performed. 
+An allergist consultation was requested to evaluate potential triggers and review perioperative medications. 
+Plans were made for future anesthetic planning, premedication, alternative agents, and rapid intervention preparation. 
+The patient and family were counseled on the event, treatment provided, and implications for future surgeries.
+
+---
+<note> F 67 yo, chest pain at rest, shortness of breath, known coronary artery disease, diaphoresis, nausea, palpitations, risk factors: hypertension, hyperlipidemia. 
+ECG: ST depression V4-V6, Troponin elevated. <SEP>
+
+<report> A 67-year-old female with a history of coronary artery disease presented with acute chest pain at rest. 
+Pain was pressure-like, radiating to the left arm, partially relieved by rest, associated with shortness of breath, diaphoresis, nausea, and palpitations. 
+Medical history included hypertension, hyperlipidemia, and prior percutaneous coronary intervention. 
+On examination, she was anxious, diaphoretic, and mildly hypotensive. 
+ECG revealed ST segment depression in leads V4-V6, and troponin levels were elevated. 
+This presentation is consistent with non-ST elevation myocardial infarction (NSTEMI). 
+She was initiated on dual antiplatelet therapy with aspirin and clopidogrel, continuous unfractionated heparin infusion, beta-blocker therapy, and statin optimization. 
+Cardiology consultation was obtained urgently for risk stratification, echocardiography, and possible percutaneous coronary intervention planning. 
+She was admitted to a monitored coronary care unit, with telemetry, serial troponins, arrhythmia monitoring, and ischemia assessment. 
+Patient education included recognition of warning signs, lifestyle modification, and medication adherence.
+
+---
+<note> M 12 yo, depressed mood, social withdrawal, irritability, sleep disturbance, poor appetite, hx bullying, declining school performance, reduced interest in hobbies. <SEP>
+
+<report> A 12-year-old male presented with a two-month history of persistent low mood, social withdrawal, irritability, and decreased participation in activities. 
+He reported difficulties sleeping, poor appetite, and reduced energy. 
+Parents noted declining academic performance and withdrawal from social interactions at school. 
+History of ongoing bullying seemed to exacerbate his mood symptoms. 
+Mental status examination revealed sad affect, anhedonia, and difficulty concentrating, but no psychotic symptoms. 
+This presentation is consistent with major depressive disorder in a child. 
+He was referred to child psychiatry for comprehensive evaluation, initiation of psychotherapy including cognitive-behavioral therapy, and consideration of pharmacologic management with SSRIs. 
+Supportive counseling for the family included guidance on addressing bullying, safe home environment, and structured routines. 
+Follow-up plan established to monitor response, safety, and school functioning.
+
+---
+<note> F 35 yo, fatigue, recurrent infections, easy bruising, pallor, CBC: pancytopenia, bone marrow biopsy: hypocellular, no evidence of malignancy, mild thrombocytopenia. <SEP>
+
+<report> A 35-year-old female presented with several months of fatigue, recurrent upper respiratory infections, and easy bruising. 
+She also noted pallor and occasional low-grade fevers. 
+Laboratory investigations revealed pancytopenia with mild thrombocytopenia and normocytic anemia. 
+Peripheral blood smear showed decreased cellularity without dysplastic features. 
+Bone marrow biopsy demonstrated hypocellular marrow without evidence of malignancy, consistent with aplastic anemia. 
+The patient was admitted for supportive care, including transfusions of red blood cells and platelets, broad-spectrum antibiotics for infection prophylaxis, and close monitoring. 
+Hematology consultation was obtained to discuss definitive treatment, including hematopoietic stem cell transplantation or immunosuppressive therapy. 
+Patient education included recognition of early warning signs of infection, bleeding precautions, and long-term prognosis discussion. 
+Follow-up plans coordinated multidisciplinary care with hematology, infectious disease, and nutrition services.
+
+---
+<note> M 50 yo, polyuria, polydipsia, weight loss, fatigue, blurred vision, family history of type 2 diabetes, BMI 31. Labs: fasting glucose 280 mg/dL, HbA1c 11%, mild hypertriglyceridemia. <SEP>
+
+<report> A 50-year-old male presented with a three-month history of increased thirst, frequent urination, unintentional weight loss, fatigue, and blurred vision. 
+He reported a family history of type 2 diabetes mellitus. 
+On physical examination, his BMI was 31, blood pressure was 140/88 mmHg, and there were no signs of dehydration. 
+Laboratory investigations revealed fasting hyperglycemia with glucose 280 mg/dL, HbA1c 11%, and mild hypertriglyceridemia. 
+This presentation is consistent with newly diagnosed type 2 diabetes mellitus with significant hyperglycemia. 
+Patient was counseled on lifestyle modifications including dietary changes, exercise, and weight reduction. 
+Pharmacologic therapy with metformin was initiated. 
+He was educated on self-monitoring blood glucose, hyperglycemic symptom recognition, and potential complications like retinopathy and neuropathy. 
+Follow-up with endocrinology arranged for ongoing management, medication titration, and assessment for comorbidities like hypertension and dyslipidemia. 
+Patient education included foot care, vaccination updates, and adherence strategies for chronic disease management.
+---
+
+<note> M 32 yo, high fever, severe abdominal pain, hypotensive, tachycardic, vomiting after a fall. FAST scan: free fluid. <SEP>
+
+<report> A 32-year-old male presented to the accident and emergency department with acute onset high-grade fever, severe generalized abdominal pain, and hypotension. 
+The pain was sudden, diffuse, and associated with nausea and repeated episodes of vomiting following a mechanical fall. 
+On physical examination, the patient was tachycardic, pale, and showed signs of peritoneal irritation. 
+FAST ultrasound revealed free intraperitoneal fluid, raising concern for intra-abdominal hemorrhage. 
+Laboratory investigations indicated a drop in hemoglobin and leukocytosis. 
+This presentation is consistent with traumatic intra-abdominal injury requiring urgent intervention. 
+The patient was resuscitated with intravenous crystalloids and blood products and underwent emergent exploratory laparotomy. 
+Postoperatively, he was monitored in the ICU for hemodynamic stability, fluid balance, and early detection of postoperative complications. 
+Multidisciplinary care was coordinated between trauma surgery, anesthesia, and critical care teams to optimize patient outcomes. 
+He was provided with ongoing analgesia, infection prophylaxis, and counseling regarding postoperative expectations.
+
+---
+<note> F 28 yo, recurrent urticaria, angioedema of lips and eyelids, mild wheezing after peanut exposure. <SEP>
+
+<report> A 28-year-old female presented to the allergy clinic with recurrent episodes of generalized urticaria and angioedema, primarily involving the lips and eyelids. 
+She reported mild wheezing during episodes and a known history of peanut allergy. 
+Multiple prior emergency visits for similar reactions were documented. 
+On examination, she was hemodynamically stable, with erythematous hives and periorbital edema. 
+No respiratory compromise was observed at presentation. 
+This clinical scenario is consistent with IgE-mediated hypersensitivity reactions with risk of anaphylaxis. 
+Immediate management included intramuscular epinephrine, intravenous antihistamines, and corticosteroids. 
+Patient education emphasized strict allergen avoidance, recognition of early symptoms, and emergency preparedness. 
+Referral to an allergist was arranged for formal immunologic evaluation, development of a personalized emergency plan, and long-term monitoring. 
+Follow-up visits were scheduled to review therapy efficacy, adherence, and reassessment of allergy severity.
+
+---
+<note> M 45 yo, hypotension, tachycardia, decreased end-tidal CO2, difficulty ventilating during knee arthroplasty. <SEP>
+
+<report> A 45-year-old male undergoing elective total knee arthroplasty developed sudden hypotension, tachycardia, and decreased end-tidal carbon dioxide during anesthesia. 
+Difficulty in ventilation and mild facial flushing were observed. 
+The patient had a history of mild penicillin allergy but no prior anaphylaxis. 
+Clinical findings raised suspicion for intraoperative anaphylaxis or pulmonary embolism. 
+Immediate interventions included intravenous fluid resuscitation, administration of vasopressors, intramuscular and intravenous epinephrine, and airway support with endotracheal intubation. 
+The surgical procedure was temporarily halted while hemodynamic stability was restored. 
+Postoperative ICU monitoring included invasive arterial pressure measurement, serial blood gas analysis, and continuous cardiopulmonary observation. 
+An allergist was consulted to identify potential triggers and guide perioperative planning for future surgeries. 
+Patient and family were counseled regarding the event, treatment provided, and long-term implications for anesthetic management. 
+Preventive measures were implemented for future surgical safety.
+
+---
+<note> F 67 yo, chest pain at rest, shortness of breath, known CAD, diaphoresis, nausea. ECG: ST depression V4-V6. Troponin ↑. <SEP>
+
+<report> A 67-year-old female with established coronary artery disease presented with acute chest pain at rest, associated with shortness of breath, diaphoresis, and nausea. 
+Pain was pressure-like, radiating to the left arm, and partially relieved by rest. 
+Medical history included hypertension, hyperlipidemia, and prior percutaneous coronary intervention. 
+Physical examination revealed mild hypotension and diaphoresis. 
+Electrocardiography showed ST-segment depression in leads V4-V6, and serum troponin was elevated. 
+This presentation is consistent with a non-ST elevation myocardial infarction (NSTEMI). 
+Immediate management included dual antiplatelet therapy, heparin infusion, beta-blockers, and statin therapy. 
+Cardiology consultation was obtained for risk stratification and consideration of percutaneous coronary intervention. 
+Continuous telemetry monitoring, serial troponin measurements, and hemodynamic observation were conducted in a coronary care unit. 
+Patient education focused on symptom recognition, lifestyle modification, and medication adherence.
+
+---
+<note> M 12 yo, low mood, irritability, social withdrawal, poor sleep, decreased appetite, history of bullying. <SEP>
+
+<report> A 12-year-old male presented to child psychiatry with a two-month history of persistent low mood, irritability, and social withdrawal. 
+He reported decreased interest in previously enjoyed activities, poor sleep, and diminished appetite. 
+Parents noted declining academic performance and social isolation at school. 
+History revealed ongoing bullying, likely contributing to emotional distress. 
+Mental status examination showed sad affect, anhedonia, and impaired concentration, without psychotic features. 
+This presentation is consistent with major depressive disorder in a child. 
+Management included referral for cognitive-behavioral therapy and consideration of selective serotonin reuptake inhibitors if symptoms persisted. 
+Family counseling addressed safe home environment, bullying intervention, and structured routines. 
+Follow-up plans were established for monitoring symptom improvement, school performance, and safety. 
+Ongoing multidisciplinary support was recommended to optimize psychological and social outcomes.
+
+---
+<note> F 35 yo, fatigue, recurrent infections, bruising, pallor. CBC: pancytopenia. Bone marrow: hypocellular. <SEP>
+
+<report> A 35-year-old female presented to hematology with persistent fatigue, recurrent infections, easy bruising, and pallor. 
+Laboratory investigations revealed pancytopenia with mild thrombocytopenia and normocytic anemia. 
+Peripheral smear demonstrated decreased cellularity without dysplasia. 
+Bone marrow biopsy revealed hypocellular marrow without evidence of malignancy, consistent with aplastic anemia. 
+The patient received supportive transfusions of red cells and platelets, broad-spectrum antibiotics, and close monitoring for complications. 
+Hematology consultation addressed definitive management options, including immunosuppressive therapy or hematopoietic stem cell transplantation. 
+Patient education focused on infection precautions, bleeding risk, and long-term prognosis. 
+Follow-up visits were arranged to coordinate multidisciplinary care with hematology, infectious disease, and nutrition services. 
+Psychosocial support was provided to address quality-of-life concerns and treatment adherence.
+
+---
+<note> M 50 yo, polyuria, polydipsia, weight loss, blurred vision, BMI 31, family history diabetes. Labs: glucose 280 mg/dL, HbA1c 11%. <SEP>
+
+<report> A 50-year-old male presented to endocrinology with a three-month history of excessive thirst, frequent urination, unintentional weight loss, fatigue, and blurred vision. 
+He reported a family history of type 2 diabetes mellitus. 
+Physical examination revealed BMI of 31 and blood pressure of 140/88 mmHg. 
+Laboratory investigations demonstrated fasting hyperglycemia at 280 mg/dL and HbA1c of 11%, with mild hypertriglyceridemia. 
+These findings are consistent with newly diagnosed type 2 diabetes mellitus with significant hyperglycemia. 
+Management included initiation of metformin, counseling on lifestyle modifications, and nutritional guidance. 
+Patient education addressed blood glucose monitoring, recognition of hyperglycemic symptoms, and potential complications. 
+Follow-up with endocrinology was arranged for medication titration, comorbidity assessment, and long-term disease management. 
+Preventive strategies included foot care, vaccination updates, and chronic disease adherence counseling.
+---
+
+<note> M 40 yo, high fever, severe abdominal pain, hypotension after a traffic accident. <SEP>
+
+<report> A 40-year-old male presented to anaesthetics consultation preoperatively for urgent surgery following a motor vehicle accident. 
+He exhibited high-grade fever, severe generalized abdominal pain, hypotension, and tachycardia. 
+Physical examination revealed pallor and signs of peritoneal irritation. 
+FAST ultrasound demonstrated free intraperitoneal fluid consistent with intra-abdominal hemorrhage. 
+Preoperative optimization included intravenous fluid resuscitation, invasive monitoring, and preparation for blood transfusion. 
+Anesthetic induction was carefully planned to maintain hemodynamic stability and avoid further compromise. 
+Postoperatively, he was monitored in ICU with continuous arterial pressure, urine output, and serial labs. 
+Multidisciplinary coordination with trauma surgery, critical care, and anesthesia teams ensured safe perioperative care. 
+Analgesia, infection prophylaxis, and fluid management were strictly supervised. 
+Patient and family were counseled regarding surgical risks, postoperative care, and prognosis.
+
+---
+<note> F 28 yo, recurrent urticaria, angioedema, mild wheezing after peanut ingestion. <SEP>
+
+<report> A 28-year-old female was evaluated by an allergist for recurrent urticaria and facial angioedema triggered by peanuts. 
+Episodes were accompanied by mild wheezing, with multiple prior emergency department visits. 
+Examination revealed widespread erythematous hives and periorbital edema without respiratory compromise. 
+Laboratory investigations included serum IgE and allergen-specific testing. 
+Immediate management comprised intramuscular epinephrine, intravenous antihistamines, and corticosteroids. 
+Education focused on strict allergen avoidance, recognition of early symptoms, and emergency preparedness with auto-injectors. 
+A comprehensive allergy action plan was developed. 
+Follow-up included immunologic evaluation, monitoring for biphasic reactions, and periodic reassessment of allergen sensitivity. 
+Family counseling addressed home safety and avoidance strategies. 
+Long-term care emphasized preventive measures to minimize risk of severe reactions.
+
+---
+<note> M 45 yo, intraoperative hypotension, tachycardia, decreased end-tidal CO2 during knee replacement. <SEP>
+
+<report> A 45-year-old male undergoing elective knee arthroplasty was assessed by the anaesthetics team for intraoperative hemodynamic instability. 
+Sudden hypotension, tachycardia, decreased end-tidal CO2, and difficulty ventilating were noted. 
+Mild facial flushing suggested a possible hypersensitivity reaction. 
+The patient had a prior mild penicillin allergy but no previous anaphylaxis. 
+Immediate management included intravenous fluids, vasopressors, epinephrine administration, and airway support. 
+Surgery was temporarily paused until stabilization was achieved. 
+Postoperative ICU monitoring included invasive arterial pressure, serial blood gases, and continuous cardiopulmonary observation. 
+An allergist consultation was requested to identify triggers and guide future anesthetic planning. 
+Patient and family were informed regarding intraoperative events, management, and implications for future surgeries. 
+Preventive strategies were implemented to enhance perioperative safety.
+
+---
+<note> F 67 yo, chest pain at rest, shortness of breath, diaphoresis, known CAD. ECG: ST depression V4-V6, Troponin ↑. <SEP>
+
+<report> A 67-year-old female with established coronary artery disease presented to cardiology with acute chest pain at rest. 
+Symptoms included pressure-like pain radiating to the left arm, shortness of breath, diaphoresis, and nausea. 
+Medical history included hypertension, hyperlipidemia, and prior percutaneous coronary intervention. 
+Examination revealed mild hypotension and diaphoresis. 
+ECG demonstrated ST-segment depression in V4-V6, and troponin was elevated. 
+This presentation is consistent with non-ST elevation myocardial infarction. 
+Immediate management involved dual antiplatelet therapy, unfractionated heparin infusion, beta-blockers, and statin optimization. 
+Cardiology consultation was obtained for risk stratification and consideration of percutaneous coronary intervention. 
+Telemetry monitoring, serial troponins, and hemodynamic surveillance were initiated. 
+Patient education emphasized symptom recognition, adherence to therapy, and lifestyle modification.
+
+---
+<note> M 12 yo, low mood, irritability, social withdrawal, sleep disturbance, poor appetite, history of bullying. <SEP>
+
+<report> A 12-year-old male presented to child psychiatry with persistent low mood, irritability, and social withdrawal over two months. 
+He reported decreased interest in previously enjoyed activities, poor sleep, and diminished appetite. 
+Parents noted declining academic performance and social isolation at school. 
+History revealed ongoing bullying, likely exacerbating emotional distress. 
+Mental status examination demonstrated sad affect, anhedonia, and impaired concentration without psychotic features. 
+This presentation is consistent with major depressive disorder. 
+Management included cognitive-behavioral therapy and consideration of selective serotonin reuptake inhibitors if symptoms persisted. 
+Family counseling focused on safe home environment, structured routines, and bullying intervention. 
+Follow-up was planned to monitor symptom improvement, school performance, and safety. 
+Multidisciplinary support was recommended to optimize psychological and social outcomes.
+
+---
+<note> F 35 yo, fatigue, recurrent infections, easy bruising, pallor. CBC: pancytopenia. Bone marrow: hypocellular. <SEP>
+
+<report> A 35-year-old female presented to hematology with fatigue, recurrent infections, easy bruising, and pallor. 
+Laboratory investigations revealed pancytopenia with mild thrombocytopenia and normocytic anemia. 
+Peripheral blood smear demonstrated decreased cellularity without dysplastic features. 
+Bone marrow biopsy revealed hypocellular marrow without malignancy, consistent with aplastic anemia. 
+Supportive care included transfusions, broad-spectrum antibiotics, and close monitoring. 
+Hematology consultation addressed definitive treatment options such as immunosuppressive therapy or hematopoietic stem cell transplantation. 
+Patient education focused on infection precautions, bleeding risk, and prognosis. 
+Follow-up was arranged to coordinate multidisciplinary care. 
+Psychosocial support addressed quality-of-life concerns and treatment adherence. 
+Long-term monitoring included regular labs and clinical assessments.
+
+---
+<note> M 50 yo, polyuria, polydipsia, weight loss, blurred vision, BMI 31, family history diabetes. Labs: glucose 280 mg/dL, HbA1c 11%. <SEP>
+
+<report> A 50-year-old male presented to endocrinology with three months of excessive thirst, frequent urination, weight loss, fatigue, and blurred vision. 
+He reported a family history of type 2 diabetes mellitus. 
+Physical examination showed BMI of 31 and BP of 140/88 mmHg. 
+Laboratory investigations revealed fasting glucose 280 mg/dL and HbA1c 11%, with mild hypertriglyceridemia. 
+This presentation is consistent with newly diagnosed type 2 diabetes mellitus. 
+Management included metformin initiation, dietary counseling, and lifestyle modification. 
+Education focused on blood glucose monitoring, recognition of hyperglycemic symptoms, and potential complications. 
+Follow-up with endocrinology was arranged for medication adjustment and comorbidity assessment. 
+Preventive strategies included foot care, vaccination updates, and chronic disease adherence counseling. 
+Patient was provided with ongoing support and education to optimize glycemic control.
+---
+
+<note> F 40 yo, routine checkup, mildly elevated BP, BMI 28, cholesterol 240 mg/dL. <SEP>
+
+<report> A 40-year-old female presented to family and general medicine for a routine health check. 
+Examination revealed mildly elevated blood pressure at 135/85 mmHg and BMI of 28. 
+Laboratory investigations demonstrated hyperlipidemia with total cholesterol of 240 mg/dL. 
+This presentation is consistent with early cardiovascular risk factors requiring preventive management. 
+Patient counseling included dietary modifications, exercise recommendations, and weight management strategies. 
+Pharmacologic therapy with statin medication was initiated to optimize lipid control. 
+Education addressed recognition of symptoms of cardiovascular disease and importance of adherence to lifestyle changes. 
+Follow-up appointments were scheduled to monitor blood pressure, lipid profile, and overall cardiovascular risk. 
+Preventive care measures, including vaccination review and age-appropriate screening tests, were discussed. 
+Long-term management emphasized risk reduction and health maintenance through lifestyle and pharmacologic interventions.
+
+---
+<note> M 62 yo, right lower quadrant pain, fever, nausea. CT: inflamed appendix. <SEP>
+
+<report> A 62-year-old male presented to gastroenterologic surgery with acute onset right lower quadrant abdominal pain, fever, and nausea. 
+Physical examination revealed localized tenderness and guarding in the right lower quadrant. 
+Laboratory studies demonstrated leukocytosis. 
+Abdominal CT scan showed an inflamed appendix consistent with acute appendicitis. 
+The patient was admitted for laparoscopic appendectomy under general anesthesia. 
+Perioperative care included intravenous fluids, analgesia, and prophylactic antibiotics. 
+Postoperative monitoring focused on vital signs, wound healing, and early mobilization. 
+Patient education addressed signs of infection, postoperative activity restrictions, and dietary recommendations. 
+Follow-up appointments were scheduled with the surgical team to assess recovery. 
+Coordination with nursing and nutrition services ensured optimal postoperative outcomes.
+
+---
+<note> F 50 yo, chronic diarrhea, abdominal pain, weight loss. Colonoscopy: multiple ulcers. Biopsy: Crohn’s disease. <SEP>
+
+<report> A 50-year-old female presented to gastroenterology with chronic diarrhea, intermittent abdominal pain, and unintentional weight loss. 
+Colonoscopy demonstrated multiple ulcerations and strictures throughout the colon. 
+Biopsy confirmed histologic features consistent with Crohn’s disease. 
+Laboratory investigations revealed elevated inflammatory markers including CRP and ESR. 
+Management included initiation of immunosuppressive therapy and nutritional support. 
+Patient counseling addressed disease course, potential complications, and adherence to medication regimens. 
+Regular outpatient follow-up was arranged for disease monitoring, symptom assessment, and laboratory evaluation. 
+Education focused on symptom recognition, infection prevention, and lifestyle modifications. 
+Multidisciplinary care included coordination with dietitians and nursing staff to optimize quality of life. 
+Long-term management emphasized minimizing flares, preventing complications, and maintaining nutritional status.
+
+---
+<note> M 45 yo, routine follow-up, fatigue, hypertension. Labs: elevated creatinine, proteinuria. <SEP>
+
+<report> A 45-year-old male presented to general practice for routine follow-up of hypertension. 
+He reported fatigue and occasional lower limb swelling. 
+Laboratory investigations revealed elevated serum creatinine and significant proteinuria. 
+This presentation is consistent with chronic kidney disease secondary to hypertensive nephropathy. 
+Management included optimization of antihypertensive therapy with ACE inhibitors, dietary sodium restriction, and weight control. 
+Patient education emphasized recognition of complications such as edema, worsening kidney function, and cardiovascular risk. 
+Referral to nephrology was made for further evaluation, including possible renal biopsy and long-term monitoring. 
+Follow-up appointments were scheduled for blood pressure monitoring, renal function assessment, and medication adjustment. 
+Multidisciplinary coordination included nursing support and patient counseling. 
+Long-term plan emphasized renal protection, lifestyle modification, and adherence to therapy.
+
+---
+<note> F 85 yo, confusion, falls, urinary incontinence, frail. <SEP>
+
+<report> An 85-year-old female presented to geriatric medicine with acute confusion, multiple recent falls, and worsening urinary incontinence. 
+Physical examination revealed frailty, impaired cognition, and decreased functional mobility. 
+Laboratory investigations and imaging ruled out acute infection, stroke, or metabolic disturbances. 
+This presentation is consistent with geriatric syndrome with delirium superimposed on chronic cognitive decline. 
+Management included supportive care, fall prevention strategies, bladder training, and environmental modifications. 
+Multidisciplinary consultation involved geriatric medicine, nursing, physiotherapy, and occupational therapy teams. 
+Patient education and caregiver counseling focused on safety, supervision, and early recognition of delirium triggers. 
+Follow-up plans included cognitive assessment, functional evaluation, and ongoing monitoring of medical and social needs. 
+Medication review and optimization were performed to minimize polypharmacy risks. 
+Long-term plan emphasized functional independence, delirium prevention, and quality-of-life support.
+
+---
+<note> M 50 yo, fatigue, pallor, easy bruising. CBC: pancytopenia, peripheral smear: blasts. <SEP>
+
+<report> A 50-year-old male presented to hematology with fatigue, pallor, and easy bruising. 
+Laboratory studies demonstrated pancytopenia with circulating blasts on peripheral blood smear. 
+Bone marrow biopsy was scheduled to evaluate for underlying hematologic malignancy. 
+This presentation is consistent with acute leukemia requiring urgent evaluation and initiation of therapy. 
+Management included hospital admission for supportive care, transfusions, and infection prophylaxis. 
+Hematology consultation was obtained to discuss induction chemotherapy and potential stem cell transplantation. 
+Patient education included recognition of bleeding, infection precautions, and understanding disease prognosis. 
+Multidisciplinary care involved nursing, pharmacy, and nutrition support. 
+Follow-up focused on monitoring therapy response, managing complications, and coordinating long-term hematologic care.
+
+---
+<note> F 30 yo, recurrent infections, eczema, elevated IgE. <SEP>
+
+<report> A 30-year-old female presented to immunology with recurrent sinus and skin infections in the context of chronic eczema. 
+Laboratory studies revealed elevated IgE and peripheral eosinophilia. 
+This presentation is consistent with primary immunodeficiency, likely hyper IgE syndrome. 
+Management included prophylactic antibiotics, aggressive skin care, and immune function monitoring. 
+Patient counseling addressed infection recognition, hygiene, and avoidance of triggers. 
+Follow-up with immunology was arranged for long-term care, immunologic evaluation, and therapy adjustment. 
+Education included vaccination review, immunization planning, and genetic counseling if indicated. 
+Coordination with dermatology ensured optimal skin management. 
+Multidisciplinary approach aimed to minimize infections, prevent complications, and improve quality of life.
+
+---
+<note> M 65 yo, fever, chills, malaise, recent travel to Africa. Blood smear: Plasmodium falciparum. <SEP>
+
+<report> A 65-year-old male presented to infectious diseases with acute fever, chills, malaise, and generalized weakness after recent travel to Africa. 
+Laboratory investigations revealed parasitemia with Plasmodium falciparum on blood smear. 
+This presentation is consistent with severe falciparum malaria requiring urgent inpatient management. 
+Management included initiation of intravenous antimalarial therapy, fluid resuscitation, and monitoring for complications such as cerebral malaria or renal impairment. 
+Supportive care included electrolyte correction, antipyretics, and oxygen supplementation as needed. 
+Patient education focused on adherence to therapy, early symptom recognition, and post-discharge follow-up. 
+Multidisciplinary coordination included nursing, infectious disease, and pharmacy teams. 
+Follow-up involved repeat blood smears, laboratory monitoring, and preventive counseling for future travel. 
+Long-term monitoring emphasized organ function, complication prevention, and patient education.
+
+---
+<note> F 58 yo, fatigue, weight loss, anemia, elevated ESR and CRP. <SEP>
+
+<report> A 58-year-old female presented to internal medicine with progressive fatigue, unintentional weight loss, and pallor. 
+Laboratory investigations revealed anemia and elevated inflammatory markers including ESR and CRP. 
+Workup excluded infection and malignancy. 
+This presentation is consistent with systemic inflammatory disease requiring comprehensive evaluation. 
+Management included admission for monitoring, initiation of supportive care, and referral to appropriate subspecialty consultations. 
+Patient education emphasized recognition of warning signs, adherence to prescribed therapies, and lifestyle adjustments to manage symptoms. 
+Follow-up involved coordination with internal medicine, laboratory services, and relevant subspecialists. 
+Long-term management focused on diagnosis confirmation, treatment optimization, and ongoing monitoring. 
+Multidisciplinary approach ensured comprehensive evaluation and care planning.
+
+---
+<note> M 47 yo, fatigue, easy bruising. Labs: anemia, thrombocytopenia, abnormal liver function tests. <SEP>
+
+<report> A 47-year-old male presented to laboratory medicine with fatigue, easy bruising, and pallor. 
+Laboratory evaluation revealed anemia, thrombocytopenia, and abnormal liver function tests. 
+Peripheral smear and additional specialized assays were performed to clarify hematologic and hepatic abnormalities. 
+This presentation warranted further diagnostic testing for hematologic or liver pathology. 
+Management included monitoring, supportive care, and targeted laboratory investigations. 
+Patient counseling addressed potential causes, test rationale, and importance of follow-up. 
+Multidisciplinary coordination involved hematology, hepatology, and laboratory teams. 
+Follow-up plans were established to monitor laboratory trends and refine diagnosis. 
+Education emphasized reporting new symptoms and adherence to recommendations. 
+Long-term plan focused on diagnosis clarification, therapy initiation, and patient safety.
+
+---
+
+<note> M 62 yo, fatigue, edema, decreased urine output, BP 160/95, proteinuria 4g/day. <SEP>
+
+<report> A 62-year-old male presented to nephrology with progressive fatigue, lower limb edema, and reduced urine output over several weeks. 
+Physical examination revealed hypertension, pitting edema, and mild pallor. 
+Laboratory investigations demonstrated elevated serum creatinine and nephrotic-range proteinuria. 
+Urinalysis confirmed proteinuria with microscopic hematuria. 
+This presentation is consistent with nephrotic syndrome secondary to chronic kidney disease. 
+Management included initiation of diuretic therapy, blood pressure optimization, and dietary sodium restriction. 
+Patient education focused on fluid balance, monitoring for complications, and adherence to medications. 
+Renal biopsy was planned for definitive diagnosis and to guide further therapy. 
+Follow-up was arranged to monitor renal function, proteinuria, and overall clinical status. 
+Multidisciplinary care involved nephrology, nursing, dietetics, and patient counseling.
+
+---
+<note> M 34 yo, low mood, auditory hallucinations, impaired occupational functioning. <SEP>
+
+<report> A 34-year-old male presented to neuropsychiatry with low mood, auditory hallucinations, and impaired occupational functioning. 
+He reported decreased motivation, social withdrawal, and sleep disturbance. 
+Mental status examination revealed persecutory auditory hallucinations and impaired insight. 
+This presentation is consistent with major depressive disorder with psychotic features. 
+Management included initiation of antipsychotic therapy combined with antidepressant medication. 
+Psychoeducation emphasized symptom recognition, adherence to therapy, and stress management. 
+Follow-up appointments were scheduled for symptom monitoring, medication titration, and functional assessment. 
+Cognitive behavioral therapy was recommended to support coping strategies and psychosocial rehabilitation. 
+Family involvement was encouraged to provide support and ensure safety. 
+Long-term planning focused on relapse prevention, functional recovery, and quality of life.
+
+---
+<note> F 70 yo, sudden weakness right arm and leg, facial droop, slurred speech. CT: left MCA infarct. <SEP>
+
+<report> A 70-year-old female presented to neurology with sudden onset right-sided hemiparesis, facial droop, and dysarthria. 
+Medical history included hypertension, hyperlipidemia, and atrial fibrillation. 
+CT scan of the brain demonstrated an acute infarct in the left middle cerebral artery territory. 
+This presentation is consistent with an acute ischemic stroke. 
+Immediate management involved hospital admission, neurological monitoring, and consideration of thrombolytic therapy. 
+Supportive care included oxygen supplementation, blood pressure optimization, and early mobilization. 
+Secondary prevention focused on anticoagulation, antiplatelet therapy, and risk factor management. 
+Multidisciplinary care included physiotherapy, occupational therapy, and speech-language therapy. 
+Patient and caregiver education addressed stroke recognition, rehabilitation, and lifestyle modification. 
+Follow-up was arranged to monitor neurological recovery and prevent recurrent events.
+
+---
+<note> M 55 yo, progressive headaches, nausea, gait instability, dizziness. MRI: cerebellar mass. <SEP>
+
+<report> A 55-year-old male presented to neurosurgery with progressive headaches, nausea, unsteady gait, and dizziness over several weeks. 
+Neurological examination revealed truncal ataxia and dysmetria. 
+MRI demonstrated a mass lesion within the cerebellum causing compression of surrounding structures. 
+This presentation is consistent with a posterior fossa tumor requiring surgical evaluation. 
+Preoperative management included corticosteroids for edema reduction and symptomatic analgesia. 
+Surgical planning focused on tumor resection while preserving neurological function. 
+Postoperative care involved ICU monitoring, early mobilization, and neurological assessments. 
+Adjunctive therapy was discussed including radiotherapy depending on histopathology results. 
+Patient counseling addressed surgical risks, prognosis, and rehabilitation requirements. 
+Follow-up included imaging, neurological monitoring, and long-term care coordination.
+
+---
+<note> F 68 yo, diffuse bone pain, fatigue, anorexia. Labs: hypercalcemia. Nuclear scan: multiple lesions. <SEP>
+
+<report> A 68-year-old female presented to nuclear medicine with diffuse bone pain, fatigue, and decreased appetite over several months. 
+Laboratory investigations revealed hypercalcemia and mild anemia. 
+Nuclear medicine bone scan demonstrated multiple areas of increased radiotracer uptake, suggestive of metastatic bone disease. 
+This presentation is consistent with secondary malignancy affecting skeletal structures. 
+Management included referral to oncology for biopsy confirmation, systemic therapy planning, and pain control. 
+Supportive measures included analgesia, hydration for hypercalcemia, and monitoring for fractures. 
+Patient education focused on disease understanding, treatment options, and complication prevention. 
+Follow-up involved multidisciplinary coordination with oncology, radiology, and supportive care teams. 
+Long-term care included symptom monitoring, pharmacologic interventions, and palliative planning as needed. 
+Rehabilitation and counseling services were incorporated to maintain quality of life.
+
+---
+<note> F 32 yo, first trimester, abdominal pain, mild vaginal bleeding, dizziness. <SEP>
+
+<report> A 32-year-old female presented to obstetrics and gynaecology in her first trimester with abdominal pain, mild vaginal bleeding, and dizziness. 
+Medical history included prior uncomplicated pregnancy and no chronic illnesses. 
+Examination revealed mild tenderness in the lower abdomen and stable vital signs. 
+Transvaginal ultrasound demonstrated an intrauterine gestational sac with viable embryo. 
+This presentation is consistent with threatened miscarriage requiring close monitoring. 
+Management included bed rest, avoidance of strenuous activity, and serial ultrasound follow-up. 
+Patient counseling addressed symptom recognition, emergency signs, and reassurance regarding prognosis. 
+Follow-up appointments were scheduled with obstetrics for ongoing prenatal care. 
+Education focused on nutrition, prenatal vitamins, and risk mitigation. 
+Psychosocial support was provided to address anxiety related to early pregnancy complications.
+
+---
+<note> M 45 yo, mild dyspnea, occupational dust exposure, chronic cough. <SEP>
+
+<report> A 45-year-old male presented to occupational medicine with mild dyspnea, chronic cough, and history of occupational dust exposure. 
+Pulmonary examination revealed bibasilar crackles and reduced breath sounds. 
+Spirometry demonstrated mild restrictive lung disease. 
+This presentation is consistent with occupational lung disease, likely due to chronic inhalation of dust particles. 
+Management included avoidance of further exposure, use of protective equipment, and smoking cessation counseling. 
+Patient education addressed symptom monitoring, respiratory hygiene, and long-term lung health. 
+Referral to pulmonology was made for further evaluation and monitoring. 
+Periodic follow-up included imaging, lung function tests, and occupational risk assessment. 
+Multidisciplinary care emphasized preventive strategies, early detection, and disease progression monitoring.
+
+---
+<note> M 60 yo, hemoptysis, unintentional weight loss, chronic smoker. CT chest: 5 cm LUL mass with hilar nodes. <SEP>
+
+<report> A 60-year-old male with a significant smoking history presented to oncology with persistent cough, hemoptysis, and unintentional weight loss. 
+CT imaging revealed a 5 cm left upper lobe mass with hilar lymphadenopathy. 
+This presentation is highly suspicious for primary lung carcinoma. 
+Management included referral for bronchoscopy and tissue biopsy to confirm diagnosis and staging. 
+Patient counseling emphasized smoking cessation, understanding potential treatments, and prognosis. 
+Multidisciplinary coordination involved oncology, pulmonology, radiology, and thoracic surgery teams. 
+Supportive care included symptom management, nutritional counseling, and psychosocial support. 
+Follow-up included discussion of treatment modalities such as surgery, chemotherapy, or radiotherapy. 
+Patient education addressed early recognition of complications and adherence to treatment. 
+Long-term planning focused on surveillance, disease monitoring, and rehabilitation.
+
+---
+<note> F 28 yo, blurred vision, ocular pain, redness, photophobia. <SEP>
+
+<report> A 28-year-old female presented to ophthalmology with acute onset blurred vision, ocular pain, redness, and photophobia. 
+Visual acuity testing revealed reduced vision in the affected eye. 
+Slit-lamp examination demonstrated conjunctival injection and corneal epithelial defect. 
+This presentation is consistent with acute keratitis requiring prompt treatment. 
+Management included initiation of topical antibiotics, cycloplegic agents, and close follow-up. 
+Patient counseling emphasized avoidance of contact lens use during treatment and adherence to medication regimen. 
+Follow-up appointments were scheduled for monitoring corneal healing and preventing complications. 
+Education included hygiene practices to reduce recurrence and minimize infection risk. 
+Long-term care focused on preserving vision and preventing chronic corneal damage. 
+Multidisciplinary care involved ophthalmology and primary care coordination.
+
+---
+<note> M 18 yo, facial asymmetry after trauma, swelling over left cheek. CT: zygomatic fracture. <SEP>
+
+<report> An 18-year-old male presented to oral and maxillofacial surgery with facial swelling, tenderness, and asymmetry after a fall. 
+CT imaging demonstrated a left zygomaticomaxillary complex fracture. 
+This presentation is consistent with acute facial skeletal trauma requiring surgical management. 
+Management included open reduction and internal fixation under general anesthesia. 
+Perioperative care included analgesia, infection prophylaxis, and postoperative monitoring. 
+Patient counseling addressed expected recovery, activity restrictions, and potential complications. 
+Follow-up appointments were scheduled to monitor bone healing, facial symmetry, and nerve function. 
+Long-term care included scar management and functional rehabilitation. 
+Multidisciplinary coordination involved maxillofacial surgery, nursing, and physiotherapy. 
+Education emphasized signs of infection, trauma precautions, and adherence to postoperative instructions.
+
+---
+
+<note> M 55 yo, left knee pain, swelling, reduced range of motion after twisting injury. <SEP>
+
+<report> A 55-year-old male presented to orthopaedics with acute left knee pain, swelling, and reduced range of motion after a twisting injury. 
+Physical examination revealed joint effusion, tenderness along the medial aspect, and limited flexion. 
+X-ray imaging excluded fracture, while MRI demonstrated medial meniscus tear with mild ligamentous sprain. 
+This presentation is consistent with acute meniscal injury requiring orthopedic evaluation. 
+Management included rest, ice, compression, elevation (RICE), analgesics, and activity modification. 
+Referral to physiotherapy was arranged for rehabilitation and strengthening exercises. 
+Surgical options, including arthroscopic repair, were discussed considering symptom severity and functional limitation. 
+Patient counseling emphasized adherence to therapy, injury prevention, and monitoring for worsening symptoms. 
+Follow-up appointments were scheduled to assess recovery and functional outcomes. 
+Long-term care focused on joint preservation, symptom control, and resumption of daily activities.
+
+---
+<note> F 42 yo, chronic sinus congestion, nasal obstruction, intermittent epistaxis, history of allergies. <SEP>
+
+<report> A 42-year-old female presented to otorhinolaryngology with chronic nasal congestion, obstruction, and intermittent epistaxis. 
+History revealed prior allergic rhinitis and seasonal exacerbations. 
+Physical examination demonstrated edematous nasal mucosa and mild septal deviation. 
+Nasal endoscopy showed hypertrophied turbinates and localized mucosal inflammation. 
+This presentation is consistent with chronic rhinosinusitis with possible allergic component. 
+Management included intranasal corticosteroids, saline irrigations, and antihistamines. 
+Patient education emphasized allergen avoidance, nasal hygiene, and recognition of infection signs. 
+Follow-up appointments were arranged for symptom monitoring, imaging if indicated, and endoscopic evaluation. 
+Surgical intervention was considered if medical management failed. 
+Long-term care focused on symptom control, prevention of recurrence, and maintenance of nasal airway patency.
+
+---
+<note> M 5 yo, abdominal pain, vomiting, palpable mass in right abdomen. Ultrasound: intussusception. <SEP>
+
+<report> A 5-year-old male presented to paediatric surgery with acute abdominal pain, vomiting, and lethargy. 
+Physical examination revealed a palpable right-sided abdominal mass and tenderness. 
+Ultrasound imaging confirmed ileocolic intussusception. 
+This presentation is consistent with pediatric intussusception requiring urgent intervention. 
+Management included fluid resuscitation, analgesia, and non-operative reduction with air or contrast enema under fluoroscopic guidance. 
+Patient monitoring included vital signs, abdominal assessment, and signs of perforation. 
+Post-reduction, observation for recurrence and feeding tolerance was arranged. 
+Parental counseling focused on symptom recognition, signs of recurrence, and emergency response. 
+Follow-up appointments were scheduled with paediatric surgery for monitoring and education. 
+Long-term care emphasized early recognition and prevention of complications associated with intussusception.
+
+---
+<note> F 2 yo, fever, cough, rhinorrhea, decreased appetite. <SEP>
+
+<report> A 2-year-old female presented to paediatrics with acute onset fever, cough, rhinorrhea, and decreased appetite. 
+Physical examination revealed mild respiratory distress, nasal congestion, and scattered wheezes. 
+Laboratory investigations and rapid antigen testing excluded bacterial infection. 
+This presentation is consistent with viral upper respiratory tract infection in a toddler. 
+Management included supportive care with hydration, antipyretics, and nasal saline irrigation. 
+Parental counseling addressed symptom monitoring, warning signs for complications, and appropriate follow-up. 
+Education included hygiene measures, isolation from sick contacts, and nutrition support. 
+Follow-up appointments were arranged to ensure recovery and monitor growth. 
+Long-term preventive strategies included immunizations and routine pediatric check-ups. 
+Care coordination emphasized early intervention and parental guidance for recurrent infections.
+
+---
+<note> M 50 yo, fatigue, weight loss, enlarged lymph nodes. Lymph node biopsy pending. <SEP>
+
+<report> A 50-year-old male presented to pathology with fatigue, unintentional weight loss, and multiple enlarged lymph nodes. 
+Physical examination revealed firm, non-tender cervical and axillary lymphadenopathy. 
+Laboratory investigations demonstrated mild anemia and elevated inflammatory markers. 
+Lymph node biopsy was performed to evaluate for malignancy, lymphoma, or reactive processes. 
+This presentation is consistent with systemic lymphoproliferative or inflammatory disorder pending histologic diagnosis. 
+Patient counseling addressed procedure details, potential outcomes, and follow-up expectations. 
+Multidisciplinary coordination involved hematology, oncology, and laboratory teams. 
+Follow-up appointments were scheduled to review biopsy results and determine subsequent management. 
+Long-term care planning included monitoring for disease progression, supportive care, and therapy initiation if indicated. 
+Education focused on recognizing systemic symptoms and maintaining health until results were available.
+
+---
+<note> F 35 yo, new prescription, complains of nausea, headache. <SEP>
+
+<report> A 35-year-old female presented to pharmacology consultation with nausea, headache, and mild dizziness after initiation of new medication. 
+History revealed use of oral antihypertensive therapy commenced two days prior. 
+Physical examination and vital signs were within normal limits. 
+Laboratory investigations were performed to exclude metabolic or hepatic causes. 
+This presentation is consistent with medication-related adverse effects. 
+Management included dose adjustment, symptomatic therapy for nausea, and reassessment of risk-benefit ratio. 
+Patient education emphasized adherence, monitoring for severe reactions, and reporting new symptoms promptly. 
+Follow-up appointments were scheduled to evaluate symptom resolution and therapeutic efficacy. 
+Coordination with prescribing physician ensured safe continuation or modification of therapy. 
+Long-term monitoring included ongoing surveillance for drug-related adverse events and patient counseling.
+
+---
+<note> M 48 yo, post-stroke hemiparesis, difficulty walking, decreased upper limb strength. <SEP>
+
+<report> A 48-year-old male presented to physical medicine and rehabilitation with post-stroke hemiparesis and impaired mobility. 
+Examination revealed decreased strength in the right upper and lower extremities, spasticity, and impaired balance. 
+Functional assessment demonstrated reduced activities of daily living independence. 
+This presentation is consistent with post-stroke motor deficits requiring multidisciplinary rehabilitation. 
+Management included individualized physiotherapy, occupational therapy, and gait training. 
+Patient education emphasized home exercise, fall prevention, and adaptive strategies. 
+Follow-up appointments were arranged to monitor progress, adjust therapy, and assess functional recovery. 
+Long-term care focused on maximizing independence, preventing complications, and promoting neuroplasticity. 
+Coordination with speech therapy and cognitive rehabilitation was planned if indicated. 
+Family counseling emphasized support, safety, and reinforcement of rehabilitation goals.
+
+---
+<note> F 30 yo, facial laceration after fall, mild swelling. <SEP>
+
+<report> A 30-year-old female presented to plastic surgery with a facial laceration resulting from a fall. 
+Examination revealed a 3 cm laceration over the left cheek with mild edema and no active bleeding. 
+This presentation is consistent with acute soft tissue injury requiring wound repair. 
+Management included local anesthesia, meticulous layered closure, and infection prophylaxis. 
+Patient counseling addressed wound care, scar management, and signs of infection. 
+Follow-up appointments were scheduled for suture removal and scar assessment. 
+Long-term care focused on cosmesis, functional recovery, and avoidance of complications. 
+Coordination involved nursing, physiotherapy if needed, and patient education on injury prevention. 
+Adjunctive therapies, such as topical silicone or laser therapy, were discussed for scar optimization. 
+Patient reassurance and psychosocial support were provided.
+
+---
+<note> M 45 yo, plantar pain, swelling under great toe, difficulty walking. <SEP>
+
+<report> A 45-year-old male presented to podiatric surgery with acute onset plantar pain, localized swelling under the great toe, and impaired ambulation. 
+Examination revealed tenderness, erythema, and limited range of motion at the first metatarsophalangeal joint. 
+X-ray excluded fracture, and clinical findings were consistent with acute gout flare. 
+Management included NSAIDs, local rest, ice application, and footwear modification. 
+Patient education focused on dietary triggers, hydration, and urate-lowering therapy if recurrent. 
+Follow-up appointments were scheduled to assess symptom resolution and monitor recurrence. 
+Multidisciplinary care involved podiatry, rheumatology, and primary care for chronic management. 
+Long-term care emphasized lifestyle modification, medication adherence, and prevention of joint damage. 
+Patient counseling addressed recognition of flares and strategies for prompt treatment. 
+Quality-of-life interventions included activity adaptation and analgesia optimization.
+
+---
+<note> F 50 yo, high BP, cholesterol 250 mg/dL, BMI 30, sedentary lifestyle. <SEP>
+
+<report> A 50-year-old female presented to preventive medicine for cardiovascular risk assessment. 
+Examination revealed hypertension, elevated BMI of 30, and dyslipidemia with total cholesterol of 250 mg/dL. 
+Laboratory investigations confirmed hyperlipidemia and fasting glucose within normal limits. 
+This presentation is consistent with elevated cardiovascular risk requiring lifestyle and pharmacologic intervention. 
+Management included initiation of statin therapy, antihypertensive optimization, and structured exercise program. 
+Patient education addressed dietary modifications, smoking cessation, and stress management. 
+Follow-up appointments were scheduled for monitoring blood pressure, lipid levels, and adherence. 
+Preventive care emphasized early detection of complications, vaccination status, and regular health screening. 
+Coordination involved primary care, dietitian, and exercise specialists. 
+Long-term planning focused on reducing cardiovascular risk and improving overall health outcomes.
+
+---
+<note> M 36 yo, depressed mood, poor sleep, decreased appetite, social withdrawal. <SEP>
+
+<report> A 36-year-old male presented to psychiatry with depressed mood, anhedonia, decreased sleep, reduced appetite, and social withdrawal. 
+History revealed occupational stress and interpersonal difficulties. 
+Mental status examination showed low affect, psychomotor retardation, and impaired concentration. 
+This presentation is consistent with major depressive disorder. 
+Management included initiation of antidepressant therapy, psychotherapy, and supportive counseling. 
+Patient education emphasized treatment adherence, symptom monitoring, and crisis planning. 
+Follow-up appointments were arranged to assess response, adjust therapy, and monitor safety. 
+Family counseling addressed support systems, early warning signs, and engagement in therapy. 
+Long-term care focused on relapse prevention, functional recovery, and quality-of-life improvement. 
+Multidisciplinary approach included mental health nursing and social work support.
+
+---
+<note> F 55 yo, living in area with high influenza prevalence, no recent vaccination. <SEP>
+
+<report> A 55-year-old female presented to public health services for preventive counseling regarding influenza exposure. 
+She reported no recent vaccination and lives in a community with high influenza prevalence. 
+Physical examination was unremarkable, and she was asymptomatic. 
+Laboratory tests were deferred given absence of acute illness. 
+This presentation is consistent with an at-risk individual for influenza infection. 
+Management included administration of seasonal influenza vaccination and education regarding infection prevention measures. 
+Patient counseling emphasized hand hygiene, avoidance of sick contacts, and prompt reporting of symptoms. 
+Follow-up involved monitoring for vaccine response and adverse reactions. 
+Long-term planning included scheduling of routine immunizations and preventive health assessments. 
+Community health education and vaccination programs were discussed for continued risk reduction.
+
+---
+<note> M 65 yo, recurrent chest wall pain, history of prostate cancer. <SEP>
+
+<report> A 65-year-old male presented to radiation oncology for evaluation of recurrent chest wall pain. 
+Medical history included treated prostate adenocarcinoma. 
+Physical examination revealed localized tenderness without erythema or swelling. 
+Imaging demonstrated metastatic lesions consistent with bone involvement. 
+This presentation is consistent with metastatic prostate cancer requiring palliative radiotherapy. 
+Management included pain control, targeted radiotherapy planning, and coordination with oncology. 
+Patient counseling addressed treatment goals, potential side effects, and symptom monitoring. 
+Follow-up appointments were scheduled to assess response, analgesic requirements, and disease progression. 
+Long-term care focused on quality-of-life optimization, multidisciplinary support, and ongoing palliative interventions. 
+Psychosocial support and rehabilitation services were integrated into the care plan.
+
+---
+<note> F 50 yo, acute shortness of breath, productive cough, fever, history of COPD. <SEP>
+
+<report> A 50-year-old female presented to respiratory medicine with acute shortness of breath, productive cough, and fever. 
+Medical history included chronic obstructive pulmonary disease. 
+Physical examination revealed wheezing, decreased breath sounds, and accessory muscle use. 
+Chest X-ray demonstrated right lower lobe infiltrates consistent with pneumonia. 
+This presentation is consistent with acute exacerbation of COPD secondary to bacterial pneumonia. 
+Management included supplemental oxygen, intravenous antibiotics, bronchodilator therapy, and corticosteroids. 
+Patient education addressed inhaler technique, infection prevention, and early recognition of exacerbations. 
+Follow-up appointments were arranged for pulmonary function assessment and monitoring response to therapy. 
+Long-term care focused on smoking cessation, vaccination, and optimization of maintenance therapy. 
+Multidisciplinary approach involved respiratory therapy, nursing, and primary care coordination.
+
+---
+<note> F 45 yo, joint pain, morning stiffness >1 hour, symmetrical involvement of hands and wrists. <SEP>
+
+<report> A 45-year-old female presented to rheumatology with symmetric pain and swelling in the hands and wrists, associated with morning stiffness lasting more than one hour. 
+Physical examination revealed tender, swollen metacarpophalangeal and proximal interphalangeal joints with limited range of motion. 
+Laboratory investigations demonstrated elevated ESR and CRP. Rheumatoid factor and anti-CCP were positive. 
+This presentation is consistent with rheumatoid arthritis requiring disease-modifying antirheumatic therapy. 
+Management included initiation of DMARDs, NSAIDs for symptomatic relief, and physiotherapy. 
+Patient education emphasized medication adherence, joint protection, and recognition of flare symptoms. 
+Follow-up appointments were scheduled for disease activity monitoring, lab evaluation, and adjustment of therapy. 
+Long-term care focused on functional preservation, prevention of deformities, and quality-of-life maintenance. 
+Coordination involved rheumatology, occupational therapy, and nursing support. 
+Patient counseling addressed prognosis, lifestyle modifications, and chronic disease management strategies.
+
+---
+<note> M 38 yo, oral ulcers, bleeding gums, mild facial swelling. <SEP>
+
+<report> A 38-year-old male presented to stomatology with multiple painful oral ulcers, bleeding gums, and mild facial swelling. 
+Examination revealed aphthous ulcers on the buccal mucosa, gingival inflammation, and mild lymphadenopathy. 
+Laboratory investigations were performed to exclude nutritional deficiencies, systemic autoimmune disease, and infection. 
+This presentation is consistent with recurrent aphthous stomatitis. 
+Management included topical corticosteroids, analgesics, oral hygiene measures, and nutritional counseling. 
+Patient education addressed avoidance of triggers, symptom monitoring, and dietary modifications. 
+Follow-up appointments were arranged for monitoring healing, recurrence, and evaluation for systemic involvement. 
+Long-term care included prevention of secondary infection and maintenance of oral health. 
+Coordination involved dental specialists and primary care for comprehensive management. 
+Psychosocial support was provided for pain management and quality-of-life improvement.
+
+---
+<note> M 60 yo, post-thoracotomy, persistent chest pain, limited mobility. <SEP>
+
+<report> A 60-year-old male presented to thoracic surgery with persistent chest pain and limited mobility following recent thoracotomy. 
+Physical examination revealed tenderness along the surgical incision, reduced chest wall expansion, and mild dyspnea on exertion. 
+Imaging demonstrated appropriate postoperative changes without acute complications. 
+This presentation is consistent with post-thoracotomy pain syndrome requiring multidisciplinary management. 
+Management included analgesic therapy, physical rehabilitation, and breathing exercises. 
+Patient counseling addressed pain control strategies, activity modifications, and signs of complications. 
+Follow-up appointments were scheduled to monitor recovery, assess pain severity, and optimize function. 
+Long-term care focused on improving respiratory mechanics, mobility, and quality of life. 
+Coordination involved thoracic surgery, pain management, physiotherapy, and nursing support. 
+Patient education emphasized adherence to therapy, gradual activity progression, and complication awareness.
+
+---
+<note> F 35 yo, fever, chills, recent travel to tropical region, malaise, headache. <SEP>
+
+<report> A 35-year-old female presented to tropical medicine with acute onset fever, chills, malaise, and headache after recent travel to a tropical region. 
+Physical examination revealed mild dehydration and febrile state. 
+Laboratory investigations, including thick and thin blood smears, demonstrated parasitemia consistent with Plasmodium species infection. 
+This presentation is consistent with acute malaria requiring immediate treatment. 
+Management included intravenous antimalarial therapy, fluid resuscitation, and monitoring for complications such as anemia or cerebral involvement. 
+Patient education addressed adherence to therapy, recognition of warning signs, and preventive measures. 
+Follow-up appointments were arranged to monitor parasitemia clearance and clinical recovery. 
+Long-term care focused on vector avoidance, prophylaxis for future travel, and patient counseling regarding recurrent infections. 
+Coordination involved infectious disease specialists, nursing, and laboratory support. 
+Supportive care emphasized hydration, symptom relief, and early detection of complications.
+
+---
+<note> M 68 yo, dysuria, hematuria, frequency, nocturia, enlarged prostate on DRE. <SEP>
+
+<report> A 68-year-old male presented to urology with dysuria, hematuria, urinary frequency, and nocturia. 
+Digital rectal examination revealed an enlarged, firm prostate without nodules. 
+Laboratory investigations demonstrated microscopic hematuria and normal renal function. 
+This presentation is consistent with benign prostatic hyperplasia with possible lower urinary tract symptoms. 
+Management included alpha-blocker therapy, lifestyle modifications, and urinary symptom monitoring. 
+Patient education addressed medication adherence, fluid management, and recognition of red-flag symptoms. 
+Follow-up appointments were scheduled for reassessment of urinary symptoms, prostate size, and renal function. 
+Long-term care focused on monitoring for progression, managing complications, and optimizing quality of life. 
+Coordination involved urology, primary care, and patient education for informed decision-making. 
+Surgical intervention was discussed if conservative therapy failed or complications arose.
+
+---
+<note> F 70 yo, non-healing leg ulcer, history of smoking, peripheral arterial disease. <SEP>
+
+<report> A 70-year-old female presented to vascular surgery with a chronic non-healing ulcer on the left lower limb. 
+History included smoking and known peripheral arterial disease. 
+Physical examination revealed a 4 cm ulcer with surrounding erythema, diminished distal pulses, and delayed capillary refill. 
+This presentation is consistent with chronic ischemic ulceration secondary to peripheral vascular insufficiency. 
+Management included wound care, optimization of perfusion, antiplatelet therapy, and smoking cessation counseling. 
+Vascular imaging was scheduled to evaluate arterial flow and plan potential intervention. 
+Patient education emphasized limb protection, monitoring for infection, and adherence to medications. 
+Follow-up appointments were arranged for ulcer assessment, revascularization planning, and multidisciplinary care. 
+Long-term management focused on improving perfusion, promoting healing, and preventing recurrence. 
+Coordination involved vascular surgery, wound care nursing, and primary care providers.
+
+---
+<note> M 28 yo, painful genital ulcer, dysuria, history of unprotected sexual contact. <SEP>
+
+<report> A 28-year-old male presented to venereology with a painful genital ulcer and dysuria following unprotected sexual contact. 
+Examination revealed a solitary ulcer with raised borders and tender inguinal lymphadenopathy. 
+Laboratory investigations included serologic testing for sexually transmitted infections. 
+This presentation is consistent with primary syphilitic chancre requiring evaluation and treatment. 
+Management included empiric antibiotic therapy, counseling regarding safe sexual practices, and partner notification. 
+Patient education emphasized treatment adherence, monitoring for secondary symptoms, and prevention of transmission. 
+Follow-up appointments were scheduled to assess ulcer healing, serologic response, and counseling reinforcement. 
+Long-term care included STI screening, sexual health education, and risk-reduction strategies. 
+Coordination involved venereology, laboratory testing, and primary care for comprehensive management.
+---
