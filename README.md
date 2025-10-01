@@ -126,6 +126,10 @@ ASSESSMENT AND PLAN: 45-year-old female presents with classic symptoms of diabet
 CLINICAL IMPRESSION: Acute coronary syndrome...
 ```
 
+## License
+
+MIT License - feel free to use and modify!
+
 ## Troubleshooting
 
 **Empty tokenization error:**
